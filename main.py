@@ -21,7 +21,7 @@ print(colorama.Fore.RED + "                   |___/                             
 print(colorama.Fore.RESET)
 
 
-bot = Bot(token = '5398814887:AAHIABItw5QI_rwnA69jMGh5MFvZs_EAfdY')
+bot = Bot(token = '')
 dp = Dispatcher(bot)
 conn = sqlite3.connect('serial.sqlite3')
 cursor = conn.cursor()
