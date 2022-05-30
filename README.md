@@ -1,9 +1,10 @@
-## Бот телеграмм для парсинга зарубежных мультфильмо
+## Бот телеграмм для парсинга зарубежных мультфильмов
 ---
 Установка и запуск ~~довльно сложен~~<br>
 Потребуется установленный python3 и pip<br>
 В консоли вводим
 ```no-highlight
+pip install loguru
 pip install aiogram
 pip install configparser
 pip install wget
