@@ -21,6 +21,7 @@ def main_mult():
     database_list = []
     for i in range(10):
         # progress_bar(i + 1, 25)
+        seriya = 1
         sezon += 1
         url = f'https://adventuretime.cn-fan.tv/season.php?id={sezon}'
         request = requests.get(url, headers=headers, proxies=proxies)
@@ -39,20 +40,20 @@ def main_mult():
                 title_seriya = soup_seriya.find('h1').text.strip()
                 url_mp4_seriya = soup_seriya.find('div', id="centerSeries").find('script', type="text/javascript").text.strip()
                 seriya_mp4 = url_mp4_seriya.split("'")[5]
-                # print(f'\n{title_seriya}\n======\n======\n{seriya_mp4}')
                 database_list_time.append(title_seriya)
-                # database_list_time.append(desc_seriya)
+                database_list_time.append(seriya)
                 database_list_time.append(sezon)
                 database_list_time.append(seriya_mp4)
                 database_list.append(database_list_time)
                 print(colorama.Fore.BLUE + f"{database_list_time}")
+                seriya += 1
 
     # Запись в базу данных
     print(colorama.Fore.GREEN + "====================\nВремя Приключений записан в базу данных\n====================")
     conn = sqlite3.connect('serial.sqlite3')
     cursor = conn.cursor()
     cursor.execute("DELETE FROM adventure_time")
-    cursor.executemany("INSERT INTO adventure_time VALUES(?, ?, ?);", database_list)
+    cursor.executemany("INSERT INTO adventure_time VALUES(?, ?, ?, ?);", database_list)
     conn.commit()
     conn.close()
     print(colorama.Fore.RESET)

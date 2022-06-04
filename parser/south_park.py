@@ -21,6 +21,7 @@ def main_mult():
     database_list = []
     for i in range(25):
         # progress_bar(i + 1, 25)
+        seriya = 1
         sezon += 1
         url = f'https://southpark.cc-fan.tv/season.php?id={sezon}'
         request = requests.get(url, headers=headers, proxies=proxies)
@@ -42,17 +43,19 @@ def main_mult():
                 # print(f'\n{title_seriya}\n======\n======\n{seriya_mp4}')
                 database_list_time.append(title_seriya)
                 # database_list_time.append(desc_seriya)
+                database_list_time.append(seriya)
                 database_list_time.append(sezon)
                 database_list_time.append(seriya_mp4)
                 database_list.append(database_list_time)
                 print(colorama.Fore.BLUE + f"{database_list_time}")
+                seriya += 1
 
     # Запись в базу данных
     print(colorama.Fore.GREEN + "====================\nЮжный Парк записан в базу данных\n====================")
     conn = sqlite3.connect('serial.sqlite3')
     cursor = conn.cursor()
     cursor.execute("DELETE FROM south_park")
-    cursor.executemany("INSERT INTO south_park VALUES(?, ?, ?);", database_list)
+    cursor.executemany("INSERT INTO south_park VALUES(?, ?, ?, ?);", database_list)
     conn.commit()
     conn.close()
     print(colorama.Fore.RESET)

@@ -13,7 +13,7 @@ print(colorama.Fore.RED + " `--. \/ _` | '_ \ / _` | | | | | '_ \ / _ \  | __/ _
 print(colorama.Fore.RED + "/\__/ / (_| | | | | (_| | |_| | | | | |  __/  | ||  __/ (__| | | |")
 print(colorama.Fore.RED + "\____/ \__,_|_| |_|\__, |\__,_|_|_| |_|\___|   \__\___|\___|_| |_|")
 print(colorama.Fore.RED + "                    __/ |                                         ")
-print(colorama.Fore.RED + "                   |___/                                          \n")
+print(colorama.Fore.RED + "                   |___/                                          ")
 print(colorama.Fore.RESET)
 
 config = configparser.ConfigParser()
