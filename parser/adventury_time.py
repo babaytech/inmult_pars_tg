@@ -15,12 +15,15 @@ def progress_bar(progress, total, color=colorama.Fore.LIGHTYELLOW_EX):
 
 def main_mult():
     print(colorama.Fore.RED + "====================\nВремя Приключений запуск парсинга\n====================")
+
+    # иницилизация хендлера и прокси
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
     proxies = {'http': 'http://67.212.186.101:80'}
+
     sezon = 0
     database_list = []
+    # цикл для смены страницы
     for i in range(10):
-        # progress_bar(i + 1, 25)
         seriya = 1
         sezon += 1
         url = f'https://adventuretime.cn-fan.tv/season.php?id={sezon}'
@@ -29,6 +32,7 @@ def main_mult():
         div = root.find('div', id='descrSeason')
         table = div.find('table')
         tds = table.find_all('h2')
+        # проход по все странице
         for td in tds:
             cards_seriya = td.find_all('a')
             for card_seriya in cards_seriya:

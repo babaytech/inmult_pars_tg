@@ -1,26 +1,32 @@
 ###################################################
 import sqlite3
-import json
 import colorama
+from loguru import logger
 import requests
 from bs4 import BeautifulSoup
 ###################################################
 
+logger.add("logs/log.log", compression="zip", rotation="500 MB")
 
+@logger.catch
 def progress_bar(progress, total, color=colorama.Fore.LIGHTYELLOW_EX):
         percent = 100 * (progress / float(total))
         print(color + f"\rПарсинг Южного Парка... | {percent:.2f}%", end="")
         if progress == total:
             print(colorama.Fore.GREEN + f"\rПарсинг Южного Парка завершён | {percent:.2f}%",end="")
 
+@logger.catch
 def main_mult():
     print(colorama.Fore.RED + "====================\nЮжный Парк начало парсинга\n====================")
+
+    # иницилизация хендлера и прокси
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
     proxies = {'http': 'http://67.212.186.101:80'}
+
     sezon = 0
     database_list = []
+    # цикл для смены страницы
     for i in range(25):
-        # progress_bar(i + 1, 25)
         seriya = 1
         sezon += 1
         url = f'https://southpark.cc-fan.tv/season.php?id={sezon}'
@@ -29,6 +35,7 @@ def main_mult():
         div = root.find('div', id='descrSeason')
         table = div.find('table')
         tds = table.find_all('h2')
+        # проход по все странице
         for td in tds:
             cards_seriya = td.find_all('a')
             for card_seriya in cards_seriya:
@@ -40,9 +47,8 @@ def main_mult():
                 title_seriya = soup_seriya.find('h1').text.strip()
                 url_mp4_seriya = soup_seriya.find('div', id="centerSeries").find('script', type="text/javascript").text.strip()
                 seriya_mp4 = url_mp4_seriya.split("'")[5]
-                # print(f'\n{title_seriya}\n======\n======\n{seriya_mp4}')
+
                 database_list_time.append(title_seriya)
-                # database_list_time.append(desc_seriya)
                 database_list_time.append(seriya)
                 database_list_time.append(sezon)
                 database_list_time.append(seriya_mp4)
