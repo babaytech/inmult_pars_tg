@@ -151,7 +151,7 @@ async def write_db_video(message: types.Message):
 @dp.message_handler(state=UserState.sezon)
 async def get_sezon(message: types.Message, state: FSMContext):
     await state.update_data(sezon=message.text)
-    await message.answer("Теперь выберете серию")
+    await message.answer("Теперь выберете серию\n1-11 серии")
     await UserState.next()
 
 @dp.message_handler(state=UserState.seriya)
@@ -159,11 +159,18 @@ async def get_seriya(message: types.Message, state: FSMContext):
     username = message.from_user.username if message.from_user.username else None
     await state.update_data(seriya=message.text)
     data = await state.get_data()
-    video_id = cursor_tg.execute(f"SELECT * FROM rick_and_morty WHERE name_file = 'RM_{data['sezon']}_{data['seriya']}.mp4';")
+    try:
+        cursor_tg.execute(f"SELECT * FROM rick_and_morty WHERE name_file = 'RM_{data['sezon']}_{data['seriya']}.mp4';")
+        video_id_list = cursor_tg.fetchone()
+        video_id = video_id_list[1]
+        await bot.send_video(message.from_user.id, video=video_id)
+        logger.debug(f"{username} выбрал Сезон:{data['sezon']} Серию:{data['seriya']}")
+        await state.finish()
+    except:
+        logger.warning(f"{username} данных нет в базе!")
+        await message.answer("такого номера нет в базе, введите другой номер!")
 
-    await message.answer(f"{video_id}")
-    logger.debug(f"{username} выбрал Сезон:{data['sezon']} Серию:{data['seriya']}")
-    await state.finish()
+
 
 @dp.message_handler(content_types=["video"])
 async def video_file_id(message: types.Message):
