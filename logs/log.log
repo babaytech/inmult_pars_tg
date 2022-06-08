@@ -1188,3 +1188,45 @@
 2022-06-07 21:54:41.704 | WARNING  | bot.bot:get_seriya:170 - babayka57 не правильно ввёл номер серии!
 2022-06-07 21:55:46.774 | DEBUG    | bot.bot:get_seriya:167 - babayka57 выбрал Сезон:2 Серию:10
 2022-06-07 21:55:46.774 | DEBUG    | bot.bot:get_seriya:167 - babayka57 выбрал Сезон:2 Серию:10
+2022-06-08 20:49:43.820 | INFO     | bot.bot:cmd_start:38 - babayka57 подключился к боту
+2022-06-08 20:49:43.820 | INFO     | bot.bot:cmd_start:38 - babayka57 подключился к боту
+2022-06-08 20:49:50.800 | DEBUG    | bot.bot:get_seriya:167 - babayka57 выбрал Сезон:1 Серию:10
+2022-06-08 20:49:50.800 | DEBUG    | bot.bot:get_seriya:167 - babayka57 выбрал Сезон:1 Серию:10
+2022-06-08 21:17:24.780 | INFO     | bot.bot:get_sezon:182 - babayka57 ввёл номер сезона 1
+2022-06-08 21:17:24.780 | INFO     | bot.bot:get_sezon:182 - babayka57 ввёл номер сезона 1
+2022-06-08 21:17:57.584 | INFO     | bot.bot:get_sezon:158 - babayka57 ввёл номер сезона 1
+2022-06-08 21:17:57.584 | INFO     | bot.bot:get_sezon:158 - babayka57 ввёл номер сезона 1
+2022-06-08 21:17:57.687 | INFO     | bot.bot:get_sezon:182 - babayka57 ввёл номер сезона 1
+2022-06-08 21:17:57.687 | INFO     | bot.bot:get_sezon:182 - babayka57 ввёл номер сезона 1
+2022-06-08 21:23:14.186 | INFO     | bot.bot:get_sezon:182 - babayka57 ввёл номер сезона 2
+2022-06-08 21:23:14.186 | INFO     | bot.bot:get_sezon:182 - babayka57 ввёл номер сезона 2
+2022-06-08 21:23:17.022 | INFO     | bot.bot:get_sezon:158 - babayka57 ввёл номер сезона 1
+2022-06-08 21:23:17.022 | INFO     | bot.bot:get_sezon:158 - babayka57 ввёл номер сезона 1
+2022-06-08 21:31:08.398 | INFO     | bot.bot:get_sezon:158 - babayka57 ввёл номер сезона 1
+2022-06-08 21:31:08.398 | INFO     | bot.bot:get_sezon:158 - babayka57 ввёл номер сезона 1
+2022-06-08 21:31:11.134 | DEBUG    | bot.bot:get_seriya:199 - babayka57 выбрал Сезон:1 Серию:1
+2022-06-08 21:31:11.134 | DEBUG    | bot.bot:get_seriya:199 - babayka57 выбрал Сезон:1 Серию:1
+2022-06-08 21:32:55.625 | INFO     | bot.bot:cmd_start:38 - Sealki подключился к боту
+2022-06-08 21:32:55.625 | INFO     | bot.bot:cmd_start:38 - Sealki подключился к боту
+2022-06-08 21:33:57.840 | INFO     | bot.bot:get_sezon:163 - Sealki ввёл номер сезона 2
+2022-06-08 21:33:57.840 | INFO     | bot.bot:get_sezon:163 - Sealki ввёл номер сезона 2
+2022-06-08 21:34:00.886 | DEBUG    | bot.bot:get_seriya:199 - Sealki выбрал Сезон:2 Серию:3
+2022-06-08 21:34:00.886 | DEBUG    | bot.bot:get_seriya:199 - Sealki выбрал Сезон:2 Серию:3
+2022-06-08 22:03:48.534 | DEBUG    | bot.bot:write_db_video:162 - babayka57 выбрал Рик и Морти
+2022-06-08 22:03:48.534 | DEBUG    | bot.bot:write_db_video:162 - babayka57 выбрал Рик и Морти
+2022-06-08 22:03:51.134 | INFO     | bot.bot:get_sezon:172 - babayka57 ввёл номер сезона 1
+2022-06-08 22:03:51.134 | INFO     | bot.bot:get_sezon:172 - babayka57 ввёл номер сезона 1
+2022-06-08 22:03:57.750 | DEBUG    | bot.bot:get_seriya:212 - babayka57 выбрал Сезон:1 Серию:1
+2022-06-08 22:03:57.750 | DEBUG    | bot.bot:get_seriya:212 - babayka57 выбрал Сезон:1 Серию:1
+2022-06-08 22:04:00.123 | DEBUG    | bot.bot:write_db_video:162 - babayka57 выбрал Рик и Морти
+2022-06-08 22:04:00.123 | DEBUG    | bot.bot:write_db_video:162 - babayka57 выбрал Рик и Морти
+2022-06-08 22:04:01.563 | INFO     | bot.bot:get_sezon:172 - babayka57 ввёл номер сезона 1
+2022-06-08 22:04:01.563 | INFO     | bot.bot:get_sezon:172 - babayka57 ввёл номер сезона 1
+2022-06-08 22:04:02.640 | DEBUG    | bot.bot:get_seriya:212 - babayka57 выбрал Сезон:1 Серию:2
+2022-06-08 22:04:02.640 | DEBUG    | bot.bot:get_seriya:212 - babayka57 выбрал Сезон:1 Серию:2
+2022-06-08 22:05:50.992 | DEBUG    | bot.bot:write_db_video_rick:162 - babayka57 выбрал Рик и Морти
+2022-06-08 22:05:50.992 | DEBUG    | bot.bot:write_db_video_rick:162 - babayka57 выбрал Рик и Морти
+2022-06-08 22:05:53.028 | DEBUG    | bot.bot:get_sezon_rick:172 - babayka57 ввёл номер сезона 1
+2022-06-08 22:05:53.028 | DEBUG    | bot.bot:get_sezon_rick:172 - babayka57 ввёл номер сезона 1
+2022-06-08 22:05:54.624 | DEBUG    | bot.bot:get_seriya_rick:212 - babayka57 выбрал Сезон:1 Серию:1
+2022-06-08 22:05:54.624 | DEBUG    | bot.bot:get_seriya_rick:212 - babayka57 выбрал Сезон:1 Серию:1
