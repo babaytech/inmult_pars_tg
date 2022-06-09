@@ -17,6 +17,7 @@ pip install aiogram
 pip install colorama
 pip install BeautifulSoup4
 pip install requests
+pip install loguru
 pip install lxml
 ```
 Позже будет единый файл со всеми нужными пакетами для установки.<br>
