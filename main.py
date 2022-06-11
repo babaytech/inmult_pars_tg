@@ -26,6 +26,3 @@ if __name__ == '__main__':
     print(config["DEFAULT"]["version"])
     bot.bot.start_bot()
     conn.close()
-
-
-

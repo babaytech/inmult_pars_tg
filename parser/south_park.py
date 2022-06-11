@@ -47,7 +47,6 @@ def main_mult():
                 title_seriya = soup_seriya.find('h1').text.strip()
                 url_mp4_seriya = soup_seriya.find('div', id="centerSeries").find('script', type="text/javascript").text.strip()
                 seriya_mp4 = url_mp4_seriya.split("'")[5]
-
                 database_list_time.append(title_seriya)
                 database_list_time.append(seriya)
                 database_list_time.append(sezon)
