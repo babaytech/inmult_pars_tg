@@ -2840,3 +2840,1109 @@
 2022-06-11 18:53:43.309 | DEBUG    | bot.bot:get_sezon_rick:195 - Ciahelper45 ввёл номер сезона 1
 2022-06-11 18:53:45.712 | DEBUG    | bot.bot:get_seriya_rick:239 - Ciahelper45 выбрал Сезон:1 Серию:9
 2022-06-11 18:53:45.712 | DEBUG    | bot.bot:get_seriya_rick:239 - Ciahelper45 выбрал Сезон:1 Серию:9
+2022-06-13 14:39:48.554 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRamKnBeKCIRox0dSwPCVUZOLLHnJXAAJwGQACbXM4SSjOsoRNAW3FJAQ название видео:AT_1_1.mp4
+2022-06-13 14:39:48.554 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRamKnBeKCIRox0dSwPCVUZOLLHnJXAAJwGQACbXM4SSjOsoRNAW3FJAQ название видео:AT_1_1.mp4
+2022-06-13 14:39:48.936 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_1.mp4 сохранен в базу данных
+2022-06-13 14:39:48.936 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_1.mp4 сохранен в базу данных
+2022-06-13 14:40:18.673 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRa2KnBgABPeYh_0l2cajTvtKd9805hAACcRkAAm1zOEkv2TzaHhDdkSQE название видео:AT_1_2.mp4
+2022-06-13 14:40:18.673 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRa2KnBgABPeYh_0l2cajTvtKd9805hAACcRkAAm1zOEkv2TzaHhDdkSQE название видео:AT_1_2.mp4
+2022-06-13 14:40:19.510 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_2.mp4 сохранен в базу данных
+2022-06-13 14:40:19.510 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_2.mp4 сохранен в базу данных
+2022-06-13 14:41:34.315 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRbGKnBkzuo4wq9ShtUkzBImAdcNCSAAJyGQACbXM4SdpaxmjY6eaHJAQ название видео:AT_1_3.mp4
+2022-06-13 14:41:34.315 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRbGKnBkzuo4wq9ShtUkzBImAdcNCSAAJyGQACbXM4SdpaxmjY6eaHJAQ название видео:AT_1_3.mp4
+2022-06-13 14:41:35.186 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_3.mp4 сохранен в базу данных
+2022-06-13 14:41:35.186 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_3.mp4 сохранен в базу данных
+2022-06-13 14:42:32.622 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRbWKnBoYaxRYAAdM8kv-Cq1nymzpYXgACdBkAAm1zOEkogyqNTflYXyQE название видео:AT_1_4.mp4
+2022-06-13 14:42:32.622 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRbWKnBoYaxRYAAdM8kv-Cq1nymzpYXgACdBkAAm1zOEkogyqNTflYXyQE название видео:AT_1_4.mp4
+2022-06-13 14:42:33.441 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_4.mp4 сохранен в базу данных
+2022-06-13 14:42:33.441 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_4.mp4 сохранен в базу данных
+2022-06-13 14:43:52.146 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRbmKnBtYbXuZShIrKliSI1EptMpdhAAJ1GQACbXM4SYYUdwaHOVVmJAQ название видео:AT_1_5.mp4
+2022-06-13 14:43:52.146 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRbmKnBtYbXuZShIrKliSI1EptMpdhAAJ1GQACbXM4SYYUdwaHOVVmJAQ название видео:AT_1_5.mp4
+2022-06-13 14:43:52.963 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_5.mp4 сохранен в базу данных
+2022-06-13 14:43:52.963 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_5.mp4 сохранен в базу данных
+2022-06-13 14:45:06.993 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRb2KnByGJ5qmlajGJ7-wIq8CltJJgAAJ3GQACbXM4SXFPHZPLqe2VJAQ название видео:AT_1_6.mp4
+2022-06-13 14:45:06.993 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRb2KnByGJ5qmlajGJ7-wIq8CltJJgAAJ3GQACbXM4SXFPHZPLqe2VJAQ название видео:AT_1_6.mp4
+2022-06-13 14:45:07.869 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_6.mp4 сохранен в базу данных
+2022-06-13 14:45:07.869 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_6.mp4 сохранен в базу данных
+2022-06-13 14:46:16.580 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRcGKnB2ZC5LE-grwVz_d13-8EA9pcAAJ4GQACbXM4SfFtYBWpcTjgJAQ название видео:AT_1_7.mp4
+2022-06-13 14:46:16.580 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRcGKnB2ZC5LE-grwVz_d13-8EA9pcAAJ4GQACbXM4SfFtYBWpcTjgJAQ название видео:AT_1_7.mp4
+2022-06-13 14:46:17.780 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_7.mp4 сохранен в базу данных
+2022-06-13 14:46:17.780 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_7.mp4 сохранен в базу данных
+2022-06-13 14:47:20.158 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRcWKnB6YRKUJRKHS6-n8F9HKobsduAAJ7GQACbXM4SYc9hAhL_G7hJAQ название видео:AT_1_8.mp4
+2022-06-13 14:47:20.158 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRcWKnB6YRKUJRKHS6-n8F9HKobsduAAJ7GQACbXM4SYc9hAhL_G7hJAQ название видео:AT_1_8.mp4
+2022-06-13 14:47:20.937 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_8.mp4 сохранен в базу данных
+2022-06-13 14:47:20.937 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_8.mp4 сохранен в базу данных
+2022-06-13 14:48:35.856 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRcmKnB_JOLuQNqqnts8rMcgx0Vr3PAAJ9GQACbXM4SR7NhoPWpP1TJAQ название видео:AT_1_9.mp4
+2022-06-13 14:48:35.856 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRcmKnB_JOLuQNqqnts8rMcgx0Vr3PAAJ9GQACbXM4SR7NhoPWpP1TJAQ название видео:AT_1_9.mp4
+2022-06-13 14:48:36.353 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_9.mp4 сохранен в базу данных
+2022-06-13 14:48:36.353 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_9.mp4 сохранен в базу данных
+2022-06-13 14:49:40.681 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRc2KnCDKBbg8NEeJohPRFrQz4oxBoAAJ-GQACbXM4SeFfi10dqJglJAQ название видео:AT_1_10.mp4
+2022-06-13 14:49:40.681 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRc2KnCDKBbg8NEeJohPRFrQz4oxBoAAJ-GQACbXM4SeFfi10dqJglJAQ название видео:AT_1_10.mp4
+2022-06-13 14:49:41.004 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_10.mp4 сохранен в базу данных
+2022-06-13 14:49:41.004 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_10.mp4 сохранен в базу данных
+2022-06-13 14:51:34.775 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRdGKnCKSynkUuGxI_DWhrRD84Kp6gAAKAGQACbXM4SXGjzp6DgpcvJAQ название видео:AT_1_11.mp4
+2022-06-13 14:51:34.775 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRdGKnCKSynkUuGxI_DWhrRD84Kp6gAAKAGQACbXM4SXGjzp6DgpcvJAQ название видео:AT_1_11.mp4
+2022-06-13 14:51:35.282 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_11.mp4 сохранен в базу данных
+2022-06-13 14:51:35.282 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_11.mp4 сохранен в базу данных
+2022-06-13 14:52:46.720 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRdWKnCOxSpOhc8XUeam0LVt--sArCAAKBGQACbXM4SXRkw4oeGauUJAQ название видео:AT_1_12.mp4
+2022-06-13 14:52:46.720 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRdWKnCOxSpOhc8XUeam0LVt--sArCAAKBGQACbXM4SXRkw4oeGauUJAQ название видео:AT_1_12.mp4
+2022-06-13 14:52:46.943 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_12.mp4 сохранен в базу данных
+2022-06-13 14:52:46.943 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_12.mp4 сохранен в базу данных
+2022-06-13 14:53:47.848 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRdmKnCSmWuBQnKn7Gl6ApyNaI2ZntAAKCGQACbXM4STyCrSf4r_ieJAQ название видео:AT_1_13.mp4
+2022-06-13 14:53:47.848 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRdmKnCSmWuBQnKn7Gl6ApyNaI2ZntAAKCGQACbXM4STyCrSf4r_ieJAQ название видео:AT_1_13.mp4
+2022-06-13 14:53:48.284 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_13.mp4 сохранен в базу данных
+2022-06-13 14:53:48.284 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_13.mp4 сохранен в базу данных
+2022-06-13 14:55:42.702 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRd2KnCZwRqpIvlEew3YvltG8su7KTAAKGGQACbXM4Sdjfrx5nFB-NJAQ название видео:AT_1_14.mp4
+2022-06-13 14:55:42.702 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRd2KnCZwRqpIvlEew3YvltG8su7KTAAKGGQACbXM4Sdjfrx5nFB-NJAQ название видео:AT_1_14.mp4
+2022-06-13 14:55:43.397 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_14.mp4 сохранен в базу данных
+2022-06-13 14:55:43.397 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_14.mp4 сохранен в базу данных
+2022-06-13 14:56:38.614 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIReGKnCdTBhAmIvOr2mqQBTsVY8J09AAKHGQACbXM4ScoO9BAj0YPgJAQ название видео:AT_1_15.mp4
+2022-06-13 14:56:38.614 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIReGKnCdTBhAmIvOr2mqQBTsVY8J09AAKHGQACbXM4ScoO9BAj0YPgJAQ название видео:AT_1_15.mp4
+2022-06-13 14:56:38.780 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_15.mp4 сохранен в базу данных
+2022-06-13 14:56:38.780 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_15.mp4 сохранен в базу данных
+2022-06-13 14:58:47.081 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIReWKnClVSosppB6D006i45UqSdfPfAAKLGQACbXM4SSUBgbxNld7WJAQ название видео:AT_1_16.mp4
+2022-06-13 14:58:47.081 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIReWKnClVSosppB6D006i45UqSdfPfAAKLGQACbXM4SSUBgbxNld7WJAQ название видео:AT_1_16.mp4
+2022-06-13 14:58:47.300 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_16.mp4 сохранен в базу данных
+2022-06-13 14:58:47.300 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_16.mp4 сохранен в базу данных
+2022-06-13 15:00:58.609 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRemKnCth-HLqVHzS-V8PQJE1LXuHjAAKNGQACbXM4SQFlTKnYLSF9JAQ название видео:AT_1_17.mp4
+2022-06-13 15:00:58.609 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRemKnCth-HLqVHzS-V8PQJE1LXuHjAAKNGQACbXM4SQFlTKnYLSF9JAQ название видео:AT_1_17.mp4
+2022-06-13 15:00:59.447 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_17.mp4 сохранен в базу данных
+2022-06-13 15:00:59.447 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_17.mp4 сохранен в базу данных
+2022-06-13 15:03:11.982 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRe2KnC16NGGeNdXmi93XZxMAvtESzAAKOGQACbXM4SU_61JYtLqqaJAQ название видео:AT_1_18.mp4
+2022-06-13 15:03:11.982 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRe2KnC16NGGeNdXmi93XZxMAvtESzAAKOGQACbXM4SU_61JYtLqqaJAQ название видео:AT_1_18.mp4
+2022-06-13 15:03:12.201 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_18.mp4 сохранен в базу данных
+2022-06-13 15:03:12.201 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_18.mp4 сохранен в базу данных
+2022-06-13 15:04:59.889 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRfGKnC8qxUX9vVsXxwy2kViMpZ9AdAAKPGQACbXM4SWgbLs99xJJkJAQ название видео:AT_1_19.mp4
+2022-06-13 15:04:59.889 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRfGKnC8qxUX9vVsXxwy2kViMpZ9AdAAKPGQACbXM4SWgbLs99xJJkJAQ название видео:AT_1_19.mp4
+2022-06-13 15:05:00.069 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_19.mp4 сохранен в базу данных
+2022-06-13 15:05:00.069 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_19.mp4 сохранен в базу данных
+2022-06-13 15:06:44.067 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRfWKnDDK8WL_fQ597MOxoooiQcY4JAAKQGQACbXM4SR03SVk9T8_dJAQ название видео:AT_1_20.mp4
+2022-06-13 15:06:44.067 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRfWKnDDK8WL_fQ597MOxoooiQcY4JAAKQGQACbXM4SR03SVk9T8_dJAQ название видео:AT_1_20.mp4
+2022-06-13 15:06:44.500 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_20.mp4 сохранен в базу данных
+2022-06-13 15:06:44.500 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_20.mp4 сохранен в базу данных
+2022-06-13 15:08:30.675 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRfmKnDJxEcL3yy1tPQO8dzoJ_wPzpAAKRGQACbXM4SYyLupMG1XF6JAQ название видео:AT_1_21.mp4
+2022-06-13 15:08:30.675 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRfmKnDJxEcL3yy1tPQO8dzoJ_wPzpAAKRGQACbXM4SYyLupMG1XF6JAQ название видео:AT_1_21.mp4
+2022-06-13 15:08:31.103 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_21.mp4 сохранен в базу данных
+2022-06-13 15:08:31.103 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_21.mp4 сохранен в базу данных
+2022-06-13 15:10:34.507 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRf2KnDRiWdpMea1Ie8UURzLoeGhAxAAKSGQACbXM4SayWr38YwZQnJAQ название видео:AT_1_22.mp4
+2022-06-13 15:10:34.507 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRf2KnDRiWdpMea1Ie8UURzLoeGhAxAAKSGQACbXM4SayWr38YwZQnJAQ название видео:AT_1_22.mp4
+2022-06-13 15:10:35.244 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_22.mp4 сохранен в базу данных
+2022-06-13 15:10:35.244 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_22.mp4 сохранен в базу данных
+2022-06-13 15:12:28.022 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRgGKnDYp1D4Z0IC4Qu9xn-hNcH8KOAAKTGQACbXM4SRmIkL1HFT3fJAQ название видео:AT_1_23.mp4
+2022-06-13 15:12:28.022 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRgGKnDYp1D4Z0IC4Qu9xn-hNcH8KOAAKTGQACbXM4SRmIkL1HFT3fJAQ название видео:AT_1_23.mp4
+2022-06-13 15:12:28.368 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_23.mp4 сохранен в базу данных
+2022-06-13 15:12:28.368 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_23.mp4 сохранен в базу данных
+2022-06-13 15:14:26.466 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRgWKnDgABe91zar_LO07fDzk1AZNNjQAClBkAAm1zOEmn0yQu_vzbeSQE название видео:AT_1_24.mp4
+2022-06-13 15:14:26.466 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRgWKnDgABe91zar_LO07fDzk1AZNNjQAClBkAAm1zOEmn0yQu_vzbeSQE название видео:AT_1_24.mp4
+2022-06-13 15:14:26.760 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_24.mp4 сохранен в базу данных
+2022-06-13 15:14:26.760 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_24.mp4 сохранен в базу данных
+2022-06-13 15:16:08.631 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRgmKnDmaarFtHzMuUsPwsgfM1wplnAAKVGQACbXM4Sb5wLXujT7U_JAQ название видео:AT_1_25.mp4
+2022-06-13 15:16:08.631 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRgmKnDmaarFtHzMuUsPwsgfM1wplnAAKVGQACbXM4Sb5wLXujT7U_JAQ название видео:AT_1_25.mp4
+2022-06-13 15:16:09.087 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_25.mp4 сохранен в базу данных
+2022-06-13 15:16:09.087 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_25.mp4 сохранен в базу данных
+2022-06-13 15:18:01.921 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRg2KnDtjbJIU59esehAOoMVzJClOzAAKXGQACbXM4Se83TtmjSVDaJAQ название видео:AT_1_26.mp4
+2022-06-13 15:18:01.921 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRg2KnDtjbJIU59esehAOoMVzJClOzAAKXGQACbXM4Se83TtmjSVDaJAQ название видео:AT_1_26.mp4
+2022-06-13 15:18:02.048 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_26.mp4 сохранен в базу данных
+2022-06-13 15:18:02.048 | SUCCESS  | bot.bot:video_file_id:165 - AT_1_26.mp4 сохранен в базу данных
+2022-06-13 15:20:04.827 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRhGKnD1K0mmaPyZLWKkv2DHns-81vAAKYGQACbXM4SfiW4e6A-4ffJAQ название видео:AT_2_1.mp4
+2022-06-13 15:20:04.827 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRhGKnD1K0mmaPyZLWKkv2DHns-81vAAKYGQACbXM4SfiW4e6A-4ffJAQ название видео:AT_2_1.mp4
+2022-06-13 15:20:05.589 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_1.mp4 сохранен в базу данных
+2022-06-13 15:20:05.589 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_1.mp4 сохранен в базу данных
+2022-06-13 15:21:35.612 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRhWKnD62-pQABb2TaEwAB88ecnpmDhnoAApoZAAJtczhJaILeeDZygDkkBA название видео:AT_2_2.mp4
+2022-06-13 15:21:35.612 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRhWKnD62-pQABb2TaEwAB88ecnpmDhnoAApoZAAJtczhJaILeeDZygDkkBA название видео:AT_2_2.mp4
+2022-06-13 15:21:35.842 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_2.mp4 сохранен в базу данных
+2022-06-13 15:21:35.842 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_2.mp4 сохранен в базу данных
+2022-06-13 15:23:47.979 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRhmKnEDKoqnDPAoyMH6_0ZFAdmvAgAAKeGQACbXM4SZa_CMrdJaFJJAQ название видео:AT_2_3.mp4
+2022-06-13 15:23:47.979 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRhmKnEDKoqnDPAoyMH6_0ZFAdmvAgAAKeGQACbXM4SZa_CMrdJaFJJAQ название видео:AT_2_3.mp4
+2022-06-13 15:23:48.156 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_3.mp4 сохранен в базу данных
+2022-06-13 15:23:48.156 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_3.mp4 сохранен в базу данных
+2022-06-13 15:25:48.272 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRh2KnEKrNXHiCOJ_JBGFBKKm3G7tDAAKfGQACbXM4SawYM8pQZBTxJAQ название видео:AT_2_4.mp4
+2022-06-13 15:25:48.272 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRh2KnEKrNXHiCOJ_JBGFBKKm3G7tDAAKfGQACbXM4SawYM8pQZBTxJAQ название видео:AT_2_4.mp4
+2022-06-13 15:25:48.782 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_4.mp4 сохранен в базу данных
+2022-06-13 15:25:48.782 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_4.mp4 сохранен в базу данных
+2022-06-13 15:26:26.035 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRiGKnENDuJgGMz12K6IPtl4QUxeS9AAKiGQACbXM4Sab3nA8PMu9vJAQ название видео:AT_2_5.mp4
+2022-06-13 15:26:26.035 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRiGKnENDuJgGMz12K6IPtl4QUxeS9AAKiGQACbXM4Sab3nA8PMu9vJAQ название видео:AT_2_5.mp4
+2022-06-13 15:26:26.273 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_5.mp4 сохранен в базу данных
+2022-06-13 15:26:26.273 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_5.mp4 сохранен в базу данных
+2022-06-13 15:28:08.082 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRiWKnETbQbI8RGwpjyubYnMYGHWcuAAKmGQACbXM4SevZR_iZwTfFJAQ название видео:AT_2_6.mp4
+2022-06-13 15:28:08.082 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRiWKnETbQbI8RGwpjyubYnMYGHWcuAAKmGQACbXM4SevZR_iZwTfFJAQ название видео:AT_2_6.mp4
+2022-06-13 15:28:08.425 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_6.mp4 сохранен в базу данных
+2022-06-13 15:28:08.425 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_6.mp4 сохранен в базу данных
+2022-06-13 15:29:47.849 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRimKnEZlg5BCDt_DUWBcvE8b3QibpAAKrGQACbXM4STY-KVzEiuAdJAQ название видео:AT_2_7.mp4
+2022-06-13 15:29:47.849 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRimKnEZlg5BCDt_DUWBcvE8b3QibpAAKrGQACbXM4STY-KVzEiuAdJAQ название видео:AT_2_7.mp4
+2022-06-13 15:29:48.017 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_7.mp4 сохранен в базу данных
+2022-06-13 15:29:48.017 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_7.mp4 сохранен в базу данных
+2022-06-13 15:31:34.101 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRi2KnEgSvPvSOAY0qAgnZO6FH5YbfAAKyGQACbXM4SXjEHBSu62lcJAQ название видео:AT_2_8.mp4
+2022-06-13 15:31:34.101 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRi2KnEgSvPvSOAY0qAgnZO6FH5YbfAAKyGQACbXM4SXjEHBSu62lcJAQ название видео:AT_2_8.mp4
+2022-06-13 15:31:34.829 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_8.mp4 сохранен в базу данных
+2022-06-13 15:31:34.829 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_8.mp4 сохранен в базу данных
+2022-06-13 15:33:33.419 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRjGKnEntmPtk6y2MPVTW6NQ8aB5yYAAK5GQACbXM4SQ_uBJlVoqx2JAQ название видео:AT_2_9.mp4
+2022-06-13 15:33:33.419 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRjGKnEntmPtk6y2MPVTW6NQ8aB5yYAAK5GQACbXM4SQ_uBJlVoqx2JAQ название видео:AT_2_9.mp4
+2022-06-13 15:33:33.793 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_9.mp4 сохранен в базу данных
+2022-06-13 15:33:33.793 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_9.mp4 сохранен в базу данных
+2022-06-13 15:34:04.178 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRjWKnEpr3kKFaFYn55hB9UcuyowijAAK6GQACbXM4ScvmTLwaPk5MJAQ название видео:AT_2_10.mp4
+2022-06-13 15:34:04.178 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRjWKnEpr3kKFaFYn55hB9UcuyowijAAK6GQACbXM4ScvmTLwaPk5MJAQ название видео:AT_2_10.mp4
+2022-06-13 15:34:04.306 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_10.mp4 сохранен в базу данных
+2022-06-13 15:34:04.306 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_10.mp4 сохранен в базу данных
+2022-06-13 15:36:13.257 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRjmKnExvrg1vG_0ZThvkQDsTpHYWHAALEGQACbXM4SZP-bNOj2ARbJAQ название видео:AT_2_11.mp4
+2022-06-13 15:36:13.257 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRjmKnExvrg1vG_0ZThvkQDsTpHYWHAALEGQACbXM4SZP-bNOj2ARbJAQ название видео:AT_2_11.mp4
+2022-06-13 15:36:13.916 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_11.mp4 сохранен в базу данных
+2022-06-13 15:36:13.916 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_11.mp4 сохранен в базу данных
+2022-06-13 15:38:08.849 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRj2KnE46rHi8-vKBppPpHjW7ED6QfAALKGQACbXM4Se9iDla8G699JAQ название видео:AT_2_12.mp4
+2022-06-13 15:38:08.849 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRj2KnE46rHi8-vKBppPpHjW7ED6QfAALKGQACbXM4Se9iDla8G699JAQ название видео:AT_2_12.mp4
+2022-06-13 15:38:09.292 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_12.mp4 сохранен в базу данных
+2022-06-13 15:38:09.292 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_12.mp4 сохранен в базу данных
+2022-06-13 15:39:04.707 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRkGKnE8aiXkmKdnM7B1gmIuY5tbtMAALNGQACbXM4Seov6f0ZQIiqJAQ название видео:AT_2_13.mp4
+2022-06-13 15:39:04.707 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRkGKnE8aiXkmKdnM7B1gmIuY5tbtMAALNGQACbXM4Seov6f0ZQIiqJAQ название видео:AT_2_13.mp4
+2022-06-13 15:39:04.933 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_13.mp4 сохранен в базу данных
+2022-06-13 15:39:04.933 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_13.mp4 сохранен в базу данных
+2022-06-13 15:39:53.917 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRkWKnE_eEKHbsCRY698QcuoP28aukAALRGQACbXM4SboUZVPblxV5JAQ название видео:AT_2_14.mp4
+2022-06-13 15:39:53.917 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRkWKnE_eEKHbsCRY698QcuoP28aukAALRGQACbXM4SboUZVPblxV5JAQ название видео:AT_2_14.mp4
+2022-06-13 15:39:54.158 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_14.mp4 сохранен в базу данных
+2022-06-13 15:39:54.158 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_14.mp4 сохранен в базу данных
+2022-06-13 15:42:28.020 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRkmKnFJIamuAZW5YyC-pNiJXKAAGbuAAC3hkAAm1zOEkbFRquYfpJHSQE название видео:AT_2_15.mp4
+2022-06-13 15:42:28.020 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRkmKnFJIamuAZW5YyC-pNiJXKAAGbuAAC3hkAAm1zOEkbFRquYfpJHSQE название видео:AT_2_15.mp4
+2022-06-13 15:42:28.332 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_15.mp4 сохранен в базу данных
+2022-06-13 15:42:28.332 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_15.mp4 сохранен в базу данных
+2022-06-13 15:45:14.985 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRk2KnFTgUrt5YBje7QVZbam0QWdOeAALiGQACbXM4SYWNy_O4RQnTJAQ название видео:AT_2_16.mp4
+2022-06-13 15:45:14.985 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRk2KnFTgUrt5YBje7QVZbam0QWdOeAALiGQACbXM4SYWNy_O4RQnTJAQ название видео:AT_2_16.mp4
+2022-06-13 15:45:15.431 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_16.mp4 сохранен в базу данных
+2022-06-13 15:45:15.431 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_16.mp4 сохранен в базу данных
+2022-06-13 15:47:13.811 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRlGKnFa-COFilGRRckh8LaSGnYhrHAALlGQACbXM4Sdi7yN_T65LCJAQ название видео:AT_2_17.mp4
+2022-06-13 15:47:13.811 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRlGKnFa-COFilGRRckh8LaSGnYhrHAALlGQACbXM4Sdi7yN_T65LCJAQ название видео:AT_2_17.mp4
+2022-06-13 15:47:14.077 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_17.mp4 сохранен в базу данных
+2022-06-13 15:47:14.077 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_17.mp4 сохранен в базу данных
+2022-06-13 15:49:00.469 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRlWKnFhrIcyzmbOVHSMEZyTaAZzP4AALoGQACbXM4SVhIrX91hiEaJAQ название видео:AT_2_18.mp4
+2022-06-13 15:49:00.469 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRlWKnFhrIcyzmbOVHSMEZyTaAZzP4AALoGQACbXM4SVhIrX91hiEaJAQ название видео:AT_2_18.mp4
+2022-06-13 15:49:00.688 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_18.mp4 сохранен в базу данных
+2022-06-13 15:49:00.688 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_18.mp4 сохранен в базу данных
+2022-06-13 15:51:00.592 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRlmKnFpIJ8x5QA527i8aLCzLocrhMAALsGQACbXM4SX9nRt76VlT6JAQ название видео:AT_2_19.mp4
+2022-06-13 15:51:00.592 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRlmKnFpIJ8x5QA527i8aLCzLocrhMAALsGQACbXM4SX9nRt76VlT6JAQ название видео:AT_2_19.mp4
+2022-06-13 15:51:01.236 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_19.mp4 сохранен в базу данных
+2022-06-13 15:51:01.236 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_19.mp4 сохранен в базу данных
+2022-06-13 15:52:33.260 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRl2KnFu-DOgMqol7fb_W8DLn7HDMHAALuGQACbXM4Saf5hoCgM6lbJAQ название видео:AT_2_20.mp4
+2022-06-13 15:52:33.260 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRl2KnFu-DOgMqol7fb_W8DLn7HDMHAALuGQACbXM4Saf5hoCgM6lbJAQ название видео:AT_2_20.mp4
+2022-06-13 15:52:33.579 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_20.mp4 сохранен в базу данных
+2022-06-13 15:52:33.579 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_20.mp4 сохранен в базу данных
+2022-06-13 15:55:06.797 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRmGKnF4hInsD9L4-bp-YpCgZXbfmTAALyGQACbXM4SX0CyAzkWX2-JAQ название видео:AT_2_21.mp4
+2022-06-13 15:55:06.797 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRmGKnF4hInsD9L4-bp-YpCgZXbfmTAALyGQACbXM4SX0CyAzkWX2-JAQ название видео:AT_2_21.mp4
+2022-06-13 15:55:07.405 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_21.mp4 сохранен в базу данных
+2022-06-13 15:55:07.405 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_21.mp4 сохранен в базу данных
+2022-06-13 15:56:36.956 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRmWKnF-LGFlPNkm4wvtSIz1sS93jrAAL1GQACbXM4ScMuAZtskTptJAQ название видео:AT_2_22.mp4
+2022-06-13 15:56:36.956 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRmWKnF-LGFlPNkm4wvtSIz1sS93jrAAL1GQACbXM4ScMuAZtskTptJAQ название видео:AT_2_22.mp4
+2022-06-13 15:56:37.215 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_22.mp4 сохранен в базу данных
+2022-06-13 15:56:37.215 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_22.mp4 сохранен в базу данных
+2022-06-13 15:58:09.851 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRmmKnGD8pUaE_O5xR6jocu7R29HLQAAL5GQACbXM4SVVGKzZx1kFXJAQ название видео:AT_2_23.mp4
+2022-06-13 15:58:09.851 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRmmKnGD8pUaE_O5xR6jocu7R29HLQAAL5GQACbXM4SVVGKzZx1kFXJAQ название видео:AT_2_23.mp4
+2022-06-13 15:58:10.216 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_23.mp4 сохранен в базу данных
+2022-06-13 15:58:10.216 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_23.mp4 сохранен в базу данных
+2022-06-13 15:59:34.501 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRm2KnGJQb2Dqrhq-ppgUqsTSSj1NpAAL9GQACbXM4SYg0GucHXvjrJAQ название видео:AT_2_24.mp4
+2022-06-13 15:59:34.501 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRm2KnGJQb2Dqrhq-ppgUqsTSSj1NpAAL9GQACbXM4SYg0GucHXvjrJAQ название видео:AT_2_24.mp4
+2022-06-13 15:59:34.767 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_24.mp4 сохранен в базу данных
+2022-06-13 15:59:34.767 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_24.mp4 сохранен в базу данных
+2022-06-13 16:01:49.570 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRnGKnGRuZIz9Blmz5JP5zxys62LZhAAIBGgACbXM4SX-SEGIdSJ_WJAQ название видео:AT_2_25.mp4
+2022-06-13 16:01:49.570 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRnGKnGRuZIz9Blmz5JP5zxys62LZhAAIBGgACbXM4SX-SEGIdSJ_WJAQ название видео:AT_2_25.mp4
+2022-06-13 16:01:50.094 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_25.mp4 сохранен в базу данных
+2022-06-13 16:01:50.094 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_25.mp4 сохранен в базу данных
+2022-06-13 16:03:47.175 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRnWKnGZHuKnK1wPTH1tV_kdHEdwEyAAIDGgACbXM4SZT8p_YqPzHeJAQ название видео:AT_2_26.mp4
+2022-06-13 16:03:47.175 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRnWKnGZHuKnK1wPTH1tV_kdHEdwEyAAIDGgACbXM4SZT8p_YqPzHeJAQ название видео:AT_2_26.mp4
+2022-06-13 16:03:47.421 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_26.mp4 сохранен в базу данных
+2022-06-13 16:03:47.421 | SUCCESS  | bot.bot:video_file_id:165 - AT_2_26.mp4 сохранен в базу данных
+2022-06-13 16:05:24.009 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRnmKnGfJ4VFP2X9BL90kCD3NYOgXCAAIGGgACbXM4STUNseEJeM2QJAQ название видео:AT_3_1.mp4
+2022-06-13 16:05:24.009 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRnmKnGfJ4VFP2X9BL90kCD3NYOgXCAAIGGgACbXM4STUNseEJeM2QJAQ название видео:AT_3_1.mp4
+2022-06-13 16:05:24.450 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_1.mp4 сохранен в базу данных
+2022-06-13 16:05:24.450 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_1.mp4 сохранен в базу данных
+2022-06-13 16:06:59.642 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRn2KnGlEroDAP-e_jP8TFr-xkX9D6AAIJGgACbXM4Se1uaRDpAAEvoiQE название видео:AT_3_2.mp4
+2022-06-13 16:06:59.642 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRn2KnGlEroDAP-e_jP8TFr-xkX9D6AAIJGgACbXM4Se1uaRDpAAEvoiQE название видео:AT_3_2.mp4
+2022-06-13 16:06:59.891 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_2.mp4 сохранен в базу данных
+2022-06-13 16:06:59.891 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_2.mp4 сохранен в базу данных
+2022-06-13 16:08:31.011 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRoGKnGqy_Lpxp9silmAdyAW8u9YxYAAIKGgACbXM4SbYNgxDKw30PJAQ название видео:AT_3_3.mp4
+2022-06-13 16:08:31.011 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRoGKnGqy_Lpxp9silmAdyAW8u9YxYAAIKGgACbXM4SbYNgxDKw30PJAQ название видео:AT_3_3.mp4
+2022-06-13 16:08:31.228 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_3.mp4 сохранен в базу данных
+2022-06-13 16:08:31.228 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_3.mp4 сохранен в базу данных
+2022-06-13 16:10:17.930 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRoWKnGxdM8NR5B3uFpmXkVBGwkHabAAINGgACbXM4SXKY6YvRj7hbJAQ название видео:AT_3_4.mp4
+2022-06-13 16:10:17.930 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRoWKnGxdM8NR5B3uFpmXkVBGwkHabAAINGgACbXM4SXKY6YvRj7hbJAQ название видео:AT_3_4.mp4
+2022-06-13 16:10:18.600 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_4.mp4 сохранен в базу данных
+2022-06-13 16:10:18.600 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_4.mp4 сохранен в базу данных
+2022-06-13 16:11:50.915 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRomKnG3R1GgXzNff8K2fcZNowHusgAAIOGgACbXM4STvGjtPrRcn0JAQ название видео:AT_3_5.mp4
+2022-06-13 16:11:50.915 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRomKnG3R1GgXzNff8K2fcZNowHusgAAIOGgACbXM4STvGjtPrRcn0JAQ название видео:AT_3_5.mp4
+2022-06-13 16:11:51.098 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_5.mp4 сохранен в базу данных
+2022-06-13 16:11:51.098 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_5.mp4 сохранен в базу данных
+2022-06-13 16:13:19.011 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRo2KnG8w6KDFOat_dw_TbEvr76Us2AAIPGgACbXM4ScDDTF2TXEWfJAQ название видео:AT_3_6.mp4
+2022-06-13 16:13:19.011 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRo2KnG8w6KDFOat_dw_TbEvr76Us2AAIPGgACbXM4ScDDTF2TXEWfJAQ название видео:AT_3_6.mp4
+2022-06-13 16:13:19.975 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_6.mp4 сохранен в базу данных
+2022-06-13 16:13:19.975 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_6.mp4 сохранен в базу данных
+2022-06-13 16:15:05.502 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRpGKnHDfZnoDZcSKCPAcmCLZqgCeiAAIRGgACbXM4SRtYagdb8RuHJAQ название видео:AT_3_7.mp4
+2022-06-13 16:15:05.502 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRpGKnHDfZnoDZcSKCPAcmCLZqgCeiAAIRGgACbXM4SRtYagdb8RuHJAQ название видео:AT_3_7.mp4
+2022-06-13 16:15:05.769 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_7.mp4 сохранен в базу данных
+2022-06-13 16:15:05.769 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_7.mp4 сохранен в базу данных
+2022-06-13 16:16:32.453 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRpWKnHI6lx4YbuxUUnocm7Ey7gQ6aAAITGgACbXM4Se2QO_copRLlJAQ название видео:AT_3_8.mp4
+2022-06-13 16:16:32.453 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRpWKnHI6lx4YbuxUUnocm7Ey7gQ6aAAITGgACbXM4Se2QO_copRLlJAQ название видео:AT_3_8.mp4
+2022-06-13 16:16:32.680 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_8.mp4 сохранен в базу данных
+2022-06-13 16:16:32.680 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_8.mp4 сохранен в базу данных
+2022-06-13 16:19:01.433 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRpmKnHSPloXYtz7elqCfhtXcYTrQxAAIWGgACbXM4SUf_gx8i7yNgJAQ название видео:AT_3_9.mp4
+2022-06-13 16:19:01.433 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRpmKnHSPloXYtz7elqCfhtXcYTrQxAAIWGgACbXM4SUf_gx8i7yNgJAQ название видео:AT_3_9.mp4
+2022-06-13 16:19:01.580 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_9.mp4 сохранен в базу данных
+2022-06-13 16:19:01.580 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_9.mp4 сохранен в базу данных
+2022-06-13 16:20:31.265 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRp2KnHX3bNfjncwb6rhCJYJXAeOc1AAIaGgACbXM4SSWzbh1eoGgqJAQ название видео:AT_3_10.mp4
+2022-06-13 16:20:31.265 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRp2KnHX3bNfjncwb6rhCJYJXAeOc1AAIaGgACbXM4SSWzbh1eoGgqJAQ название видео:AT_3_10.mp4
+2022-06-13 16:20:31.531 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_10.mp4 сохранен в базу данных
+2022-06-13 16:20:31.531 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_10.mp4 сохранен в базу данных
+2022-06-13 16:21:56.933 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRqGKnHdIjzcfhv1x1TirxmrfP8MVnAAIbGgACbXM4SX9kjMUDQ9VuJAQ название видео:AT_3_11.mp4
+2022-06-13 16:21:56.933 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRqGKnHdIjzcfhv1x1TirxmrfP8MVnAAIbGgACbXM4SX9kjMUDQ9VuJAQ название видео:AT_3_11.mp4
+2022-06-13 16:21:57.141 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_11.mp4 сохранен в базу данных
+2022-06-13 16:21:57.141 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_11.mp4 сохранен в базу данных
+2022-06-13 16:23:39.963 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRqWKnHjlxsMMsf7qgKgTXDJVwIxX4AAIdGgACbXM4SQLtPK9QLar8JAQ название видео:AT_3_12.mp4
+2022-06-13 16:23:39.963 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRqWKnHjlxsMMsf7qgKgTXDJVwIxX4AAIdGgACbXM4SQLtPK9QLar8JAQ название видео:AT_3_12.mp4
+2022-06-13 16:23:40.187 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_12.mp4 сохранен в базу данных
+2022-06-13 16:23:40.187 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_12.mp4 сохранен в базу данных
+2022-06-13 16:25:21.229 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRqmKnHp_9vysAASyByh35SxseNOeT8gACIRoAAm1zOEkHJtcb2YHc5SQE название видео:AT_3_13.mp4
+2022-06-13 16:25:21.229 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRqmKnHp_9vysAASyByh35SxseNOeT8gACIRoAAm1zOEkHJtcb2YHc5SQE название видео:AT_3_13.mp4
+2022-06-13 16:25:21.489 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_13.mp4 сохранен в базу данных
+2022-06-13 16:25:21.489 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_13.mp4 сохранен в базу данных
+2022-06-13 16:26:52.237 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRq2KnHvrfIJ30CDVouQvUCd31T1f_AAIiGgACbXM4SewNOzMEj8JGJAQ название видео:AT_3_14.mp4
+2022-06-13 16:26:52.237 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRq2KnHvrfIJ30CDVouQvUCd31T1f_AAIiGgACbXM4SewNOzMEj8JGJAQ название видео:AT_3_14.mp4
+2022-06-13 16:26:52.384 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_14.mp4 сохранен в базу данных
+2022-06-13 16:26:52.384 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_14.mp4 сохранен в базу данных
+2022-06-13 16:28:50.823 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRrGKnH3DRl4N3JRhDX7v5AST4rnqiAAIjGgACbXM4SY5yLXPbFbbqJAQ название видео:AT_3_15.mp4
+2022-06-13 16:28:50.823 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRrGKnH3DRl4N3JRhDX7v5AST4rnqiAAIjGgACbXM4SY5yLXPbFbbqJAQ название видео:AT_3_15.mp4
+2022-06-13 16:28:50.981 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_15.mp4 сохранен в базу данных
+2022-06-13 16:28:50.981 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_15.mp4 сохранен в базу данных
+2022-06-13 16:30:26.424 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRrWKnH9AIwiNn8cLCgqvT5ND6OZMsAAInGgACbXM4SeQN7dTiC8rpJAQ название видео:AT_3_16.mp4
+2022-06-13 16:30:26.424 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRrWKnH9AIwiNn8cLCgqvT5ND6OZMsAAInGgACbXM4SeQN7dTiC8rpJAQ название видео:AT_3_16.mp4
+2022-06-13 16:30:26.672 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_16.mp4 сохранен в базу данных
+2022-06-13 16:30:26.672 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_16.mp4 сохранен в базу данных
+2022-06-13 16:32:02.930 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRrmKnIDBwYIbwRzaKe8oJqoO12cf5AAIoGgACbXM4SUJhq307ukaEJAQ название видео:AT_3_17.mp4
+2022-06-13 16:32:02.930 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRrmKnIDBwYIbwRzaKe8oJqoO12cf5AAIoGgACbXM4SUJhq307ukaEJAQ название видео:AT_3_17.mp4
+2022-06-13 16:32:03.109 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_17.mp4 сохранен в базу данных
+2022-06-13 16:32:03.109 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_17.mp4 сохранен в базу данных
+2022-06-13 16:33:23.982 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRr2KnIIFcM54plHFEKCJdvR6CB_zqAAIpGgACbXM4SepfyAcc_1scJAQ название видео:AT_3_18.mp4
+2022-06-13 16:33:23.982 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRr2KnIIFcM54plHFEKCJdvR6CB_zqAAIpGgACbXM4SepfyAcc_1scJAQ название видео:AT_3_18.mp4
+2022-06-13 16:33:24.159 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_18.mp4 сохранен в базу данных
+2022-06-13 16:33:24.159 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_18.mp4 сохранен в базу данных
+2022-06-13 16:36:32.715 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRsGKnIT67KnrSPgLp9hiRT1vrcdd0AAIwGgACbXM4SRzSiD2qXK0zJAQ название видео:AT_3_19.mp4
+2022-06-13 16:36:32.715 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRsGKnIT67KnrSPgLp9hiRT1vrcdd0AAIwGgACbXM4SRzSiD2qXK0zJAQ название видео:AT_3_19.mp4
+2022-06-13 16:36:32.841 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_19.mp4 сохранен в базу данных
+2022-06-13 16:36:32.841 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_19.mp4 сохранен в базу данных
+2022-06-13 16:37:51.601 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRsWKnIY04H-U9kNLdyDddygkGeXp2AAI2GgACbXM4SeCAaY3eQK3nJAQ название видео:AT_3_20.mp4
+2022-06-13 16:37:51.601 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRsWKnIY04H-U9kNLdyDddygkGeXp2AAI2GgACbXM4SeCAaY3eQK3nJAQ название видео:AT_3_20.mp4
+2022-06-13 16:37:51.837 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_20.mp4 сохранен в базу данных
+2022-06-13 16:37:51.837 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_20.mp4 сохранен в базу данных
+2022-06-13 16:39:20.713 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRsmKnIeYvii4xBFAdsZ_Fu5IoMfzBAAI9GgACbXM4SX4PIlJjWbnlJAQ название видео:AT_3_21.mp4
+2022-06-13 16:39:20.713 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRsmKnIeYvii4xBFAdsZ_Fu5IoMfzBAAI9GgACbXM4SX4PIlJjWbnlJAQ название видео:AT_3_21.mp4
+2022-06-13 16:39:20.962 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_21.mp4 сохранен в базу данных
+2022-06-13 16:39:20.962 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_21.mp4 сохранен в базу данных
+2022-06-13 16:41:24.318 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRs2KnImI5AeOKIAW3Lvh_F45GPDpFAAJBGgACbXM4SR-BaLbajDOlJAQ название видео:AT_3_22.mp4
+2022-06-13 16:41:24.318 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRs2KnImI5AeOKIAW3Lvh_F45GPDpFAAJBGgACbXM4SR-BaLbajDOlJAQ название видео:AT_3_22.mp4
+2022-06-13 16:41:24.693 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_22.mp4 сохранен в базу данных
+2022-06-13 16:41:24.693 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_22.mp4 сохранен в базу данных
+2022-06-13 16:43:01.067 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRtGKnIsKLUP0O10PHMrS-LMGtu_y0AAJEGgACbXM4SX0UJ25F6YgxJAQ название видео:AT_3_23.mp4
+2022-06-13 16:43:01.067 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRtGKnIsKLUP0O10PHMrS-LMGtu_y0AAJEGgACbXM4SX0UJ25F6YgxJAQ название видео:AT_3_23.mp4
+2022-06-13 16:43:01.242 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_23.mp4 сохранен в базу данных
+2022-06-13 16:43:01.242 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_23.mp4 сохранен в базу данных
+2022-06-13 16:44:52.762 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRtWKnIzLt7rAQpkG2aQeDgKFnKejPAAJGGgACbXM4SdrQ-eS-Fzo0JAQ название видео:AT_3_24.mp4
+2022-06-13 16:44:52.762 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRtWKnIzLt7rAQpkG2aQeDgKFnKejPAAJGGgACbXM4SdrQ-eS-Fzo0JAQ название видео:AT_3_24.mp4
+2022-06-13 16:44:52.893 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_24.mp4 сохранен в базу данных
+2022-06-13 16:44:52.893 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_24.mp4 сохранен в базу данных
+2022-06-13 16:46:42.945 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRtmKnI6D5CZgXYu4nwvovNcuEybVVAAJHGgACbXM4SRz6vfGPqKjvJAQ название видео:AT_3_25.mp4
+2022-06-13 16:46:42.945 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRtmKnI6D5CZgXYu4nwvovNcuEybVVAAJHGgACbXM4SRz6vfGPqKjvJAQ название видео:AT_3_25.mp4
+2022-06-13 16:46:43.123 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_25.mp4 сохранен в базу данных
+2022-06-13 16:46:43.123 | SUCCESS  | bot.bot:video_file_id:165 - AT_3_25.mp4 сохранен в базу данных
+2022-06-13 16:48:46.325 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRt2KnJBz9hT4TTjcJH8npWryJs25OAAJJGgACbXM4SQ69ypEn4kZ6JAQ название видео:AT_4_1.mp4
+2022-06-13 16:48:46.325 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRt2KnJBz9hT4TTjcJH8npWryJs25OAAJJGgACbXM4SQ69ypEn4kZ6JAQ название видео:AT_4_1.mp4
+2022-06-13 16:48:46.650 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_1.mp4 сохранен в базу данных
+2022-06-13 16:48:46.650 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_1.mp4 сохранен в базу данных
+2022-06-13 16:50:11.038 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRuGKnJHDgyj7EFBhwwTQVvl6fnBscAAJLGgACbXM4SbahUTPEGamSJAQ название видео:AT_4_2.mp4
+2022-06-13 16:50:11.038 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRuGKnJHDgyj7EFBhwwTQVvl6fnBscAAJLGgACbXM4SbahUTPEGamSJAQ название видео:AT_4_2.mp4
+2022-06-13 16:50:11.290 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_2.mp4 сохранен в базу данных
+2022-06-13 16:50:11.290 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_2.mp4 сохранен в базу данных
+2022-06-13 16:52:05.492 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRuWKnJOPIL3o-p6CwEP_e4bwCo2hIAAJNGgACbXM4SSVIY9Unt4x6JAQ название видео:AT_4_3.mp4
+2022-06-13 16:52:05.492 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRuWKnJOPIL3o-p6CwEP_e4bwCo2hIAAJNGgACbXM4SSVIY9Unt4x6JAQ название видео:AT_4_3.mp4
+2022-06-13 16:52:05.701 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_3.mp4 сохранен в базу данных
+2022-06-13 16:52:05.701 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_3.mp4 сохранен в базу данных
+2022-06-13 16:53:20.006 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRumKnJS2nFNIAAVS42MuUCLQnTRHQLAACTxoAAm1zOEm2ttEVcuZJyiQE название видео:AT_4_4.mp4
+2022-06-13 16:53:20.006 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRumKnJS2nFNIAAVS42MuUCLQnTRHQLAACTxoAAm1zOEm2ttEVcuZJyiQE название видео:AT_4_4.mp4
+2022-06-13 16:53:20.294 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_4.mp4 сохранен в базу данных
+2022-06-13 16:53:20.294 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_4.mp4 сохранен в базу данных
+2022-06-13 16:55:12.587 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRu2KnJZ6XC2ADv9U8QCzSAAGsQnh1GQACUxoAAm1zOEnAvh5baN8B2CQE название видео:AT_4_5.mp4
+2022-06-13 16:55:12.587 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRu2KnJZ6XC2ADv9U8QCzSAAGsQnh1GQACUxoAAm1zOEnAvh5baN8B2CQE название видео:AT_4_5.mp4
+2022-06-13 16:55:12.883 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_5.mp4 сохранен в базу данных
+2022-06-13 16:55:12.883 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_5.mp4 сохранен в базу данных
+2022-06-13 16:56:52.668 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRvGKnJgI5loUvdLfgsnVWX9F1ZyZsAAJYGgACbXM4SZI-Lgdodlh0JAQ название видео:AT_4_6.mp4
+2022-06-13 16:56:52.668 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRvGKnJgI5loUvdLfgsnVWX9F1ZyZsAAJYGgACbXM4SZI-Lgdodlh0JAQ название видео:AT_4_6.mp4
+2022-06-13 16:56:52.933 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_6.mp4 сохранен в базу данных
+2022-06-13 16:56:52.933 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_6.mp4 сохранен в базу данных
+2022-06-13 16:57:34.190 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRvWKnJixYqswjDUOEyGTa78qsbHSoAAJZGgACbXM4STzTTzuj4y3sJAQ название видео:AT_4_7.mp4
+2022-06-13 16:57:34.190 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRvWKnJixYqswjDUOEyGTa78qsbHSoAAJZGgACbXM4STzTTzuj4y3sJAQ название видео:AT_4_7.mp4
+2022-06-13 16:57:34.354 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_7.mp4 сохранен в базу данных
+2022-06-13 16:57:34.354 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_7.mp4 сохранен в базу данных
+2022-06-13 16:58:15.636 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRvmKnJlUdEH2wJhIC85WmiqB50qUJAAJaGgACbXM4SSgDTI5gFnWaJAQ название видео:AT_4_8.mp4
+2022-06-13 16:58:15.636 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRvmKnJlUdEH2wJhIC85WmiqB50qUJAAJaGgACbXM4SSgDTI5gFnWaJAQ название видео:AT_4_8.mp4
+2022-06-13 16:58:15.797 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_8.mp4 сохранен в базу данных
+2022-06-13 16:58:15.797 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_8.mp4 сохранен в базу данных
+2022-06-13 16:59:05.712 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRv2KnJodAqOEYC_aLG9431mMOOvOpAAJbGgACbXM4Sd8uOcOo_ONBJAQ название видео:AT_4_9.mp4
+2022-06-13 16:59:05.712 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRv2KnJodAqOEYC_aLG9431mMOOvOpAAJbGgACbXM4Sd8uOcOo_ONBJAQ название видео:AT_4_9.mp4
+2022-06-13 16:59:05.824 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_9.mp4 сохранен в базу данных
+2022-06-13 16:59:05.824 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_9.mp4 сохранен в базу данных
+2022-06-13 17:00:37.293 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRwGKnJuNZCgAB4QaCW2TgPQ13CVMKcwACXRoAAm1zOEkSiYEbb-uDZiQE название видео:AT_4_10.mp4
+2022-06-13 17:00:37.293 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRwGKnJuNZCgAB4QaCW2TgPQ13CVMKcwACXRoAAm1zOEkSiYEbb-uDZiQE название видео:AT_4_10.mp4
+2022-06-13 17:00:37.469 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_10.mp4 сохранен в базу данных
+2022-06-13 17:00:37.469 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_10.mp4 сохранен в базу данных
+2022-06-13 17:01:30.408 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRwWKnJxiPIMB_HOikdpXeS-LtodCKAAJfGgACbXM4SaSTPmIuQx5QJAQ название видео:AT_4_11.mp4
+2022-06-13 17:01:30.408 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRwWKnJxiPIMB_HOikdpXeS-LtodCKAAJfGgACbXM4SaSTPmIuQx5QJAQ название видео:AT_4_11.mp4
+2022-06-13 17:01:30.573 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_11.mp4 сохранен в базу данных
+2022-06-13 17:01:30.573 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_11.mp4 сохранен в базу данных
+2022-06-13 17:02:09.828 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRwmKnJz-IpYahSG3qP6_iXG7D-4XiAAJgGgACbXM4STk0OwABgX82AyQE название видео:AT_4_12.mp4
+2022-06-13 17:02:09.828 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRwmKnJz-IpYahSG3qP6_iXG7D-4XiAAJgGgACbXM4STk0OwABgX82AyQE название видео:AT_4_12.mp4
+2022-06-13 17:02:10.015 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_12.mp4 сохранен в базу данных
+2022-06-13 17:02:10.015 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_12.mp4 сохранен в базу данных
+2022-06-13 17:03:34.403 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRw2KnJ5SkSO6zczuk8LEjG8utkyTvAAJhGgACbXM4SaNOaso14CHHJAQ название видео:AT_4_13.mp4
+2022-06-13 17:03:34.403 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRw2KnJ5SkSO6zczuk8LEjG8utkyTvAAJhGgACbXM4SaNOaso14CHHJAQ название видео:AT_4_13.mp4
+2022-06-13 17:03:34.607 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_13.mp4 сохранен в базу данных
+2022-06-13 17:03:34.607 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_13.mp4 сохранен в базу данных
+2022-06-13 17:05:04.380 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRxGKnJ-6e7S_L2lXeY-t-QrZ0lydJAAJiGgACbXM4SVmKsz4iTEemJAQ название видео:AT_4_14.mp4
+2022-06-13 17:05:04.380 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRxGKnJ-6e7S_L2lXeY-t-QrZ0lydJAAJiGgACbXM4SVmKsz4iTEemJAQ название видео:AT_4_14.mp4
+2022-06-13 17:05:04.659 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_14.mp4 сохранен в базу данных
+2022-06-13 17:05:04.659 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_14.mp4 сохранен в базу данных
+2022-06-13 17:06:41.256 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRxWKnKE8cpbW3qRbUZ1vEiJ0o9hXxAAJlGgACbXM4ScWeW0IDwvvIJAQ название видео:AT_4_15.mp4
+2022-06-13 17:06:41.256 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRxWKnKE8cpbW3qRbUZ1vEiJ0o9hXxAAJlGgACbXM4ScWeW0IDwvvIJAQ название видео:AT_4_15.mp4
+2022-06-13 17:06:41.435 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_15.mp4 сохранен в базу данных
+2022-06-13 17:06:41.435 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_15.mp4 сохранен в базу данных
+2022-06-13 17:07:59.151 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRxmKnKJwIXWxZZwEaun504HtlrbglAAJnGgACbXM4Sefx_6cvEhubJAQ название видео:AT_4_16.mp4
+2022-06-13 17:07:59.151 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRxmKnKJwIXWxZZwEaun504HtlrbglAAJnGgACbXM4Sefx_6cvEhubJAQ название видео:AT_4_16.mp4
+2022-06-13 17:07:59.417 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_16.mp4 сохранен в базу данных
+2022-06-13 17:07:59.417 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_16.mp4 сохранен в базу данных
+2022-06-13 17:09:11.955 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRx2KnKOWz6fMR9tSLu_RtM_YfH2_IAAJoGgACbXM4Sad1V-2CdMTXJAQ название видео:AT_4_17.mp4
+2022-06-13 17:09:11.955 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRx2KnKOWz6fMR9tSLu_RtM_YfH2_IAAJoGgACbXM4Sad1V-2CdMTXJAQ название видео:AT_4_17.mp4
+2022-06-13 17:09:12.163 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_17.mp4 сохранен в базу данных
+2022-06-13 17:09:12.163 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_17.mp4 сохранен в базу данных
+2022-06-13 17:10:47.896 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRyGKnKUVFeVVH6wgbnqBTPlH4rBMOAAJpGgACbXM4SXsZTx8NTPIqJAQ название видео:AT_4_18.mp4
+2022-06-13 17:10:47.896 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRyGKnKUVFeVVH6wgbnqBTPlH4rBMOAAJpGgACbXM4SXsZTx8NTPIqJAQ название видео:AT_4_18.mp4
+2022-06-13 17:10:48.016 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_18.mp4 сохранен в базу данных
+2022-06-13 17:10:48.016 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_18.mp4 сохранен в базу данных
+2022-06-13 17:12:13.965 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRyWKnKZuL5NCQpMpSD0QwL0T7C3qOAAJuGgACbXM4SeQwowH0SNGLJAQ название видео:AT_4_19.mp4
+2022-06-13 17:12:13.965 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRyWKnKZuL5NCQpMpSD0QwL0T7C3qOAAJuGgACbXM4SeQwowH0SNGLJAQ название видео:AT_4_19.mp4
+2022-06-13 17:12:14.250 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_19.mp4 сохранен в базу данных
+2022-06-13 17:12:14.250 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_19.mp4 сохранен в базу данных
+2022-06-13 17:12:52.098 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRymKnKcEoQhVA3ysoROU01PAMuFnPAAJvGgACbXM4SXZtch61guY8JAQ название видео:AT_4_20.mp4
+2022-06-13 17:12:52.098 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRymKnKcEoQhVA3ysoROU01PAMuFnPAAJvGgACbXM4SXZtch61guY8JAQ название видео:AT_4_20.mp4
+2022-06-13 17:12:52.252 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_20.mp4 сохранен в базу данных
+2022-06-13 17:12:52.252 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_20.mp4 сохранен в базу данных
+2022-06-13 17:13:32.744 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRy2KnKerZVUTgHY8T1VjTzB6EuNfFAAJxGgACbXM4SSS_3C05eWrdJAQ название видео:AT_4_21.mp4
+2022-06-13 17:13:32.744 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRy2KnKerZVUTgHY8T1VjTzB6EuNfFAAJxGgACbXM4SSS_3C05eWrdJAQ название видео:AT_4_21.mp4
+2022-06-13 17:13:32.865 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_21.mp4 сохранен в базу данных
+2022-06-13 17:13:32.865 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_21.mp4 сохранен в базу данных
+2022-06-13 17:14:07.381 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRzGKnKg2Qk1uQnRiXdnjPc5tbpId-AAJyGgACbXM4SUpKtbGCXGzxJAQ название видео:AT_4_22.mp4
+2022-06-13 17:14:07.381 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRzGKnKg2Qk1uQnRiXdnjPc5tbpId-AAJyGgACbXM4SUpKtbGCXGzxJAQ название видео:AT_4_22.mp4
+2022-06-13 17:14:07.519 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_22.mp4 сохранен в базу данных
+2022-06-13 17:14:07.519 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_22.mp4 сохранен в базу данных
+2022-06-13 17:14:49.964 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRzWKnKjc3JYbJKP-sDBJMO693seLjAAJ1GgACbXM4ST1Gn4Ss2HeFJAQ название видео:AT_4_23.mp4
+2022-06-13 17:14:49.964 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRzWKnKjc3JYbJKP-sDBJMO693seLjAAJ1GgACbXM4ST1Gn4Ss2HeFJAQ название видео:AT_4_23.mp4
+2022-06-13 17:14:50.105 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_23.mp4 сохранен в базу данных
+2022-06-13 17:14:50.105 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_23.mp4 сохранен в базу данных
+2022-06-13 17:16:33.240 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRzmKnKp_ZgwbEgqiAVkalZqB7j8XZAAJ3GgACbXM4SZ00iJHtM4PIJAQ название видео:AT_4_24.mp4
+2022-06-13 17:16:33.240 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRzmKnKp_ZgwbEgqiAVkalZqB7j8XZAAJ3GgACbXM4SZ00iJHtM4PIJAQ название видео:AT_4_24.mp4
+2022-06-13 17:16:33.437 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_24.mp4 сохранен в базу данных
+2022-06-13 17:16:33.437 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_24.mp4 сохранен в базу данных
+2022-06-13 17:17:57.617 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRz2KnKvPruEzeKEtNZVZk7KNYYVeyAAJ4GgACbXM4Sdn-tU8PAv65JAQ название видео:AT_4_25.mp4
+2022-06-13 17:17:57.617 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIRz2KnKvPruEzeKEtNZVZk7KNYYVeyAAJ4GgACbXM4Sdn-tU8PAv65JAQ название видео:AT_4_25.mp4
+2022-06-13 17:17:57.807 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_25.mp4 сохранен в базу данных
+2022-06-13 17:17:57.807 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_25.mp4 сохранен в базу данных
+2022-06-13 17:19:19.762 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR0GKnK0V0idmcAs2cJexy93KV92adAAJ7GgACbXM4SXyskusmSLhpJAQ название видео:AT_4_26.mp4
+2022-06-13 17:19:19.762 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR0GKnK0V0idmcAs2cJexy93KV92adAAJ7GgACbXM4SXyskusmSLhpJAQ название видео:AT_4_26.mp4
+2022-06-13 17:19:19.932 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_26.mp4 сохранен в базу данных
+2022-06-13 17:19:19.932 | SUCCESS  | bot.bot:video_file_id:165 - AT_4_26.mp4 сохранен в базу данных
+2022-06-13 17:20:51.650 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR0WKnK6FtIYM6s2kOpXn-9S_TRNpWAAJ8GgACbXM4SXuTyU5zyRPtJAQ название видео:AT_5_1.mp4
+2022-06-13 17:20:51.650 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR0WKnK6FtIYM6s2kOpXn-9S_TRNpWAAJ8GgACbXM4SXuTyU5zyRPtJAQ название видео:AT_5_1.mp4
+2022-06-13 17:20:51.804 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_1.mp4 сохранен в базу данных
+2022-06-13 17:20:51.804 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_1.mp4 сохранен в базу данных
+2022-06-13 17:21:27.439 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR0mKnK8VoU7dZJklAATGlaOk-d_KvAAJ-GgACbXM4SZnYP-rH8P6yJAQ название видео:AT_5_2.mp4
+2022-06-13 17:21:27.439 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR0mKnK8VoU7dZJklAATGlaOk-d_KvAAJ-GgACbXM4SZnYP-rH8P6yJAQ название видео:AT_5_2.mp4
+2022-06-13 17:21:27.611 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_2.mp4 сохранен в базу данных
+2022-06-13 17:21:27.611 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_2.mp4 сохранен в базу данных
+2022-06-13 17:22:16.928 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR02KnK_brMYb4yAJMBZeKkd8UFdYQAAJ_GgACbXM4SYYOweEw6tBUJAQ название видео:AT_5_3.mp4
+2022-06-13 17:22:16.928 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR02KnK_brMYb4yAJMBZeKkd8UFdYQAAJ_GgACbXM4SYYOweEw6tBUJAQ название видео:AT_5_3.mp4
+2022-06-13 17:22:17.110 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_3.mp4 сохранен в базу данных
+2022-06-13 17:22:17.110 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_3.mp4 сохранен в базу данных
+2022-06-13 17:23:32.793 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR1GKnLEI0eLnEfpjxTa2L7cQ67QuMAAKCGgACbXM4SYgVHi-O7zywJAQ название видео:AT_5_4.mp4
+2022-06-13 17:23:32.793 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR1GKnLEI0eLnEfpjxTa2L7cQ67QuMAAKCGgACbXM4SYgVHi-O7zywJAQ название видео:AT_5_4.mp4
+2022-06-13 17:23:32.961 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_4.mp4 сохранен в базу данных
+2022-06-13 17:23:32.961 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_4.mp4 сохранен в базу данных
+2022-06-13 17:24:21.252 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR1WKnLHMVV_3slmAWWWQd0YRVayDXAAKDGgACbXM4SWwamcVOzEqMJAQ название видео:AT_5_5.mp4
+2022-06-13 17:24:21.252 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR1WKnLHMVV_3slmAWWWQd0YRVayDXAAKDGgACbXM4SWwamcVOzEqMJAQ название видео:AT_5_5.mp4
+2022-06-13 17:24:21.374 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_5.mp4 сохранен в базу данных
+2022-06-13 17:24:21.374 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_5.mp4 сохранен в базу данных
+2022-06-13 17:24:56.683 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR1mKnLJanwsM92b35FkReEfnmdmr1AAKEGgACbXM4SSlfuZZWK5WnJAQ название видео:AT_5_6.mp4
+2022-06-13 17:24:56.683 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR1mKnLJanwsM92b35FkReEfnmdmr1AAKEGgACbXM4SSlfuZZWK5WnJAQ название видео:AT_5_6.mp4
+2022-06-13 17:24:56.849 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_6.mp4 сохранен в базу данных
+2022-06-13 17:24:56.849 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_6.mp4 сохранен в базу данных
+2022-06-13 17:25:27.385 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR12KnLLUOkH0D_JhEENqdsUtw0ORPAAKFGgACbXM4SaB3QjIYOANsJAQ название видео:AT_5_7.mp4
+2022-06-13 17:25:27.385 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR12KnLLUOkH0D_JhEENqdsUtw0ORPAAKFGgACbXM4SaB3QjIYOANsJAQ название видео:AT_5_7.mp4
+2022-06-13 17:25:28.568 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_7.mp4 сохранен в базу данных
+2022-06-13 17:25:28.568 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_7.mp4 сохранен в базу данных
+2022-06-13 17:26:03.161 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR2GKnLNgT6luodmQ-2TwDQ3da_QxpAAKHGgACbXM4SRXqrxhUE7MnJAQ название видео:AT_5_8.mp4
+2022-06-13 17:26:03.161 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR2GKnLNgT6luodmQ-2TwDQ3da_QxpAAKHGgACbXM4SRXqrxhUE7MnJAQ название видео:AT_5_8.mp4
+2022-06-13 17:26:03.320 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_8.mp4 сохранен в базу данных
+2022-06-13 17:26:03.320 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_8.mp4 сохранен в базу данных
+2022-06-13 17:26:31.020 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR2WKnLPTKBVlXIUeDj2MokoQZzQisAAKJGgACbXM4SaIXrgqVn8GrJAQ название видео:AT_5_9.mp4
+2022-06-13 17:26:31.020 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR2WKnLPTKBVlXIUeDj2MokoQZzQisAAKJGgACbXM4SaIXrgqVn8GrJAQ название видео:AT_5_9.mp4
+2022-06-13 17:26:31.219 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_9.mp4 сохранен в базу данных
+2022-06-13 17:26:31.219 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_9.mp4 сохранен в базу данных
+2022-06-13 17:27:16.309 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR2mKnLSJ9UVzsZQF4QrZdzsM6Vf6fAAKKGgACbXM4SVM0tM14IBOFJAQ название видео:AT_5_10.mp4
+2022-06-13 17:27:16.309 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR2mKnLSJ9UVzsZQF4QrZdzsM6Vf6fAAKKGgACbXM4SVM0tM14IBOFJAQ название видео:AT_5_10.mp4
+2022-06-13 17:27:16.490 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_10.mp4 сохранен в базу данных
+2022-06-13 17:27:16.490 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_10.mp4 сохранен в базу данных
+2022-06-13 17:27:52.844 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR22KnLUaPp5YNDe0wvFREzE2fAm0HAAKLGgACbXM4ScTRESVVAe7bJAQ название видео:AT_5_11.mp4
+2022-06-13 17:27:52.844 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR22KnLUaPp5YNDe0wvFREzE2fAm0HAAKLGgACbXM4ScTRESVVAe7bJAQ название видео:AT_5_11.mp4
+2022-06-13 17:27:52.977 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_11.mp4 сохранен в базу данных
+2022-06-13 17:27:52.977 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_11.mp4 сохранен в базу данных
+2022-06-13 17:29:34.088 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR3GKnLatMeio1o6Ki79LC9NxT7hw6AAKNGgACbXM4STGuWzwuWsZrJAQ название видео:AT_5_12.mp4
+2022-06-13 17:29:34.088 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR3GKnLatMeio1o6Ki79LC9NxT7hw6AAKNGgACbXM4STGuWzwuWsZrJAQ название видео:AT_5_12.mp4
+2022-06-13 17:29:34.278 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_12.mp4 сохранен в базу данных
+2022-06-13 17:29:34.278 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_12.mp4 сохранен в базу данных
+2022-06-13 17:31:06.050 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR3WKnLgcnRHUsXSaQ_VBUEdmic1qtAAKOGgACbXM4SaRb4HOjBNSGJAQ название видео:AT_5_13.mp4
+2022-06-13 17:31:06.050 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR3WKnLgcnRHUsXSaQ_VBUEdmic1qtAAKOGgACbXM4SaRb4HOjBNSGJAQ название видео:AT_5_13.mp4
+2022-06-13 17:31:06.302 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_13.mp4 сохранен в базу данных
+2022-06-13 17:31:06.302 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_13.mp4 сохранен в базу данных
+2022-06-13 17:32:14.935 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR3mKnLkzCJapjBJlSwSKyT_3j9lcIAAKQGgACbXM4SbaQ8psUeNmdJAQ название видео:AT_5_14.mp4
+2022-06-13 17:32:14.935 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR3mKnLkzCJapjBJlSwSKyT_3j9lcIAAKQGgACbXM4SbaQ8psUeNmdJAQ название видео:AT_5_14.mp4
+2022-06-13 17:32:15.074 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_14.mp4 сохранен в базу данных
+2022-06-13 17:32:15.074 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_14.mp4 сохранен в базу данных
+2022-06-13 17:34:50.976 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR32KnLuhF43m5cFT3nNRYlu5ez8NCAAKRGgACbXM4SYXTywABOsk3nSQE название видео:AT_5_15.mp4
+2022-06-13 17:34:50.976 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR32KnLuhF43m5cFT3nNRYlu5ez8NCAAKRGgACbXM4SYXTywABOsk3nSQE название видео:AT_5_15.mp4
+2022-06-13 17:34:51.097 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_15.mp4 сохранен в базу данных
+2022-06-13 17:34:51.097 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_15.mp4 сохранен в базу данных
+2022-06-13 17:36:13.665 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR4GKnLzuZWqMMz1_PEke5HAZL4ECRAAKSGgACbXM4STgqTC4qeUVdJAQ название видео:AT_5_16.mp4
+2022-06-13 17:36:13.665 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR4GKnLzuZWqMMz1_PEke5HAZL4ECRAAKSGgACbXM4STgqTC4qeUVdJAQ название видео:AT_5_16.mp4
+2022-06-13 17:36:13.921 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_16.mp4 сохранен в базу данных
+2022-06-13 17:36:13.921 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_16.mp4 сохранен в базу данных
+2022-06-13 17:37:35.944 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR4WKnL4248-MWlrdekHLNa2FDZrhOAAKUGgACbXM4SV2CEU2M3hIFJAQ название видео:AT_5_17.mp4
+2022-06-13 17:37:35.944 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR4WKnL4248-MWlrdekHLNa2FDZrhOAAKUGgACbXM4SV2CEU2M3hIFJAQ название видео:AT_5_17.mp4
+2022-06-13 17:37:36.127 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_17.mp4 сохранен в базу данных
+2022-06-13 17:37:36.127 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_17.mp4 сохранен в базу данных
+2022-06-13 17:39:00.302 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR4mKnL-JI1sAvOCC_bFYBBAgexlxUAAKVGgACbXM4Sf7OcFfres02JAQ название видео:AT_5_18.mp4
+2022-06-13 17:39:00.302 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR4mKnL-JI1sAvOCC_bFYBBAgexlxUAAKVGgACbXM4Sf7OcFfres02JAQ название видео:AT_5_18.mp4
+2022-06-13 17:39:00.468 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_18.mp4 сохранен в базу данных
+2022-06-13 17:39:00.468 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_18.mp4 сохранен в базу данных
+2022-06-13 17:40:26.353 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR42KnMDijmx_Oq1WoU5Skt6jTMcTLAAKfGgACbXM4SSVKP2abmsGYJAQ название видео:AT_5_19.mp4
+2022-06-13 17:40:26.353 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR42KnMDijmx_Oq1WoU5Skt6jTMcTLAAKfGgACbXM4SSVKP2abmsGYJAQ название видео:AT_5_19.mp4
+2022-06-13 17:40:26.963 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_19.mp4 сохранен в базу данных
+2022-06-13 17:40:26.963 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_19.mp4 сохранен в базу данных
+2022-06-13 17:42:04.657 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR5GKnMJoGNn_hyXF2NDnzDmwUmrfGAAKxGgACbXM4SWiiHXtHYkqzJAQ название видео:AT_5_20.mp4
+2022-06-13 17:42:04.657 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR5GKnMJoGNn_hyXF2NDnzDmwUmrfGAAKxGgACbXM4SWiiHXtHYkqzJAQ название видео:AT_5_20.mp4
+2022-06-13 17:42:04.821 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_20.mp4 сохранен в базу данных
+2022-06-13 17:42:04.821 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_20.mp4 сохранен в базу данных
+2022-06-13 17:43:37.560 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR5WKnMPc3lDKoknHM6LCcQ26W0U6MAAK2GgACbXM4SdACJSvzy6XfJAQ название видео:AT_5_21.mp4
+2022-06-13 17:43:37.560 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR5WKnMPc3lDKoknHM6LCcQ26W0U6MAAK2GgACbXM4SdACJSvzy6XfJAQ название видео:AT_5_21.mp4
+2022-06-13 17:43:37.768 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_21.mp4 сохранен в базу данных
+2022-06-13 17:43:37.768 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_21.mp4 сохранен в базу данных
+2022-06-13 17:45:03.228 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR5mKnMUwyDn2w07-HvDYLtd3uJOwpAAK5GgACbXM4SbBteiVpgjl9JAQ название видео:AT_5_22.mp4
+2022-06-13 17:45:03.228 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR5mKnMUwyDn2w07-HvDYLtd3uJOwpAAK5GgACbXM4SbBteiVpgjl9JAQ название видео:AT_5_22.mp4
+2022-06-13 17:45:03.486 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_22.mp4 сохранен в базу данных
+2022-06-13 17:45:03.486 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_22.mp4 сохранен в базу данных
+2022-06-13 17:45:25.988 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR52KnMWN_HXJQPaPnTTeMikxW3Ig-AAK6GgACbXM4SSSYsDMM6ItVJAQ название видео:AT_5_23.mp4
+2022-06-13 17:45:25.988 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR52KnMWN_HXJQPaPnTTeMikxW3Ig-AAK6GgACbXM4SSSYsDMM6ItVJAQ название видео:AT_5_23.mp4
+2022-06-13 17:45:26.128 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_23.mp4 сохранен в базу данных
+2022-06-13 17:45:26.128 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_23.mp4 сохранен в базу данных
+2022-06-13 17:46:08.681 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR6GKnMY5uUN3oqri9DnwPfXoJYKc7AAK7GgACbXM4Sdpo87NpbRzdJAQ название видео:AT_5_24.mp4
+2022-06-13 17:46:08.681 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR6GKnMY5uUN3oqri9DnwPfXoJYKc7AAK7GgACbXM4Sdpo87NpbRzdJAQ название видео:AT_5_24.mp4
+2022-06-13 17:46:08.918 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_24.mp4 сохранен в базу данных
+2022-06-13 17:46:08.918 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_24.mp4 сохранен в базу данных
+2022-06-13 17:46:50.480 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR6WKnMbis89aEDh6_oCajBcpSVjbnAAK8GgACbXM4SQ0rEVbSiJnyJAQ название видео:AT_5_25.mp4
+2022-06-13 17:46:50.480 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR6WKnMbis89aEDh6_oCajBcpSVjbnAAK8GgACbXM4SQ0rEVbSiJnyJAQ название видео:AT_5_25.mp4
+2022-06-13 17:46:50.643 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_25.mp4 сохранен в базу данных
+2022-06-13 17:46:50.643 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_25.mp4 сохранен в базу данных
+2022-06-13 17:47:38.845 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR6mKnMehRpERs7e6P5rW7m3olW7fcAAK_GgACbXM4SX7flz5Mae9YJAQ название видео:AT_5_26.mp4
+2022-06-13 17:47:38.845 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR6mKnMehRpERs7e6P5rW7m3olW7fcAAK_GgACbXM4SX7flz5Mae9YJAQ название видео:AT_5_26.mp4
+2022-06-13 17:47:39.006 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_26.mp4 сохранен в базу данных
+2022-06-13 17:47:39.006 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_26.mp4 сохранен в базу данных
+2022-06-13 17:48:22.029 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR62KnMhN4xA6W8t_hlM5Jmfuc_yUwAALAGgACbXM4SRZqZvTbFxsCJAQ название видео:AT_5_27.mp4
+2022-06-13 17:48:22.029 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR62KnMhN4xA6W8t_hlM5Jmfuc_yUwAALAGgACbXM4SRZqZvTbFxsCJAQ название видео:AT_5_27.mp4
+2022-06-13 17:48:22.176 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_27.mp4 сохранен в базу данных
+2022-06-13 17:48:22.176 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_27.mp4 сохранен в базу данных
+2022-06-13 17:49:04.678 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR7GKnMj4MS4lD1EHmeNzhMaP3vukvAALBGgACbXM4Se1HarABckM-JAQ название видео:AT_5_28.mp4
+2022-06-13 17:49:04.678 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR7GKnMj4MS4lD1EHmeNzhMaP3vukvAALBGgACbXM4Se1HarABckM-JAQ название видео:AT_5_28.mp4
+2022-06-13 17:49:04.864 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_28.mp4 сохранен в базу данных
+2022-06-13 17:49:04.864 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_28.mp4 сохранен в базу данных
+2022-06-13 17:49:44.849 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR7WKnMmb7c7OklmIgX7CKwmZmiSRZAALCGgACbXM4SQlU1An687wRJAQ название видео:AT_5_29.mp4
+2022-06-13 17:49:44.849 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR7WKnMmb7c7OklmIgX7CKwmZmiSRZAALCGgACbXM4SQlU1An687wRJAQ название видео:AT_5_29.mp4
+2022-06-13 17:49:45.010 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_29.mp4 сохранен в базу данных
+2022-06-13 17:49:45.010 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_29.mp4 сохранен в базу данных
+2022-06-13 17:50:36.609 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR7mKnMpqTH9O9L9hCVjVKoZ_ntc6lAALDGgACbXM4Sa6vDRksve62JAQ название видео:AT_5_30.mp4
+2022-06-13 17:50:36.609 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR7mKnMpqTH9O9L9hCVjVKoZ_ntc6lAALDGgACbXM4Sa6vDRksve62JAQ название видео:AT_5_30.mp4
+2022-06-13 17:50:36.874 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_30.mp4 сохранен в базу данных
+2022-06-13 17:50:36.874 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_30.mp4 сохранен в базу данных
+2022-06-13 17:51:15.666 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR72KnMsHbf6d3g41MPP7mfRAYk6SsAALGGgACbXM4SerCGIpdxunxJAQ название видео:AT_5_31.mp4
+2022-06-13 17:51:15.666 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR72KnMsHbf6d3g41MPP7mfRAYk6SsAALGGgACbXM4SerCGIpdxunxJAQ название видео:AT_5_31.mp4
+2022-06-13 17:51:15.910 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_31.mp4 сохранен в базу данных
+2022-06-13 17:51:15.910 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_31.mp4 сохранен в базу данных
+2022-06-13 17:51:56.455 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR8GKnMupJhBAuAAGgTPgoCbfi4XIFfwACxxoAAm1zOEmklDIxOsKrDSQE название видео:AT_5_32.mp4
+2022-06-13 17:51:56.455 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR8GKnMupJhBAuAAGgTPgoCbfi4XIFfwACxxoAAm1zOEmklDIxOsKrDSQE название видео:AT_5_32.mp4
+2022-06-13 17:51:56.643 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_32.mp4 сохранен в базу данных
+2022-06-13 17:51:56.643 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_32.mp4 сохранен в базу данных
+2022-06-13 17:52:45.061 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR8WKnMxrHoVwNWP4Hz-qdRnRvxj1xAALJGgACbXM4SXNWLz0hposNJAQ название видео:AT_5_33.mp4
+2022-06-13 17:52:45.061 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR8WKnMxrHoVwNWP4Hz-qdRnRvxj1xAALJGgACbXM4SXNWLz0hposNJAQ название видео:AT_5_33.mp4
+2022-06-13 17:52:45.232 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_33.mp4 сохранен в базу данных
+2022-06-13 17:52:45.232 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_33.mp4 сохранен в базу данных
+2022-06-13 17:53:25.465 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR8mKnM0MIyVelfxzrhN_5LzCHank4AALLGgACbXM4STOZDdwU7yDHJAQ название видео:AT_5_34.mp4
+2022-06-13 17:53:25.465 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR8mKnM0MIyVelfxzrhN_5LzCHank4AALLGgACbXM4STOZDdwU7yDHJAQ название видео:AT_5_34.mp4
+2022-06-13 17:53:25.631 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_34.mp4 сохранен в базу данных
+2022-06-13 17:53:25.631 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_34.mp4 сохранен в базу данных
+2022-06-13 17:54:04.216 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR82KnM2lAxBp6W2FyAAErWBTmTOIh2AACzBoAAm1zOEkfowxEOEzTEiQE название видео:AT_5_35.mp4
+2022-06-13 17:54:04.216 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR82KnM2lAxBp6W2FyAAErWBTmTOIh2AACzBoAAm1zOEkfowxEOEzTEiQE название видео:AT_5_35.mp4
+2022-06-13 17:54:04.408 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_35.mp4 сохранен в базу данных
+2022-06-13 17:54:04.408 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_35.mp4 сохранен в базу данных
+2022-06-13 17:54:59.676 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR9GKnM6EUKUcN2grKQSuGSuNpxyzUAALOGgACbXM4SadGDUdLOl_-JAQ название видео:AT_5_36.mp4
+2022-06-13 17:54:59.676 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR9GKnM6EUKUcN2grKQSuGSuNpxyzUAALOGgACbXM4SadGDUdLOl_-JAQ название видео:AT_5_36.mp4
+2022-06-13 17:54:59.821 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_36.mp4 сохранен в базу данных
+2022-06-13 17:54:59.821 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_36.mp4 сохранен в базу данных
+2022-06-13 17:55:44.200 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR9WKnM81wgccFrYTGKc_E1h4NLum7AALPGgACbXM4SQVj8G73KHjCJAQ название видео:AT_5_37.mp4
+2022-06-13 17:55:44.200 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR9WKnM81wgccFrYTGKc_E1h4NLum7AALPGgACbXM4SQVj8G73KHjCJAQ название видео:AT_5_37.mp4
+2022-06-13 17:55:44.359 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_37.mp4 сохранен в базу данных
+2022-06-13 17:55:44.359 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_37.mp4 сохранен в базу данных
+2022-06-13 17:56:22.009 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR9mKnM_N6DftQm_G6q_5VJVegN3XeAALSGgACbXM4SddZCa4G2FMhJAQ название видео:AT_5_38.mp4
+2022-06-13 17:56:22.009 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR9mKnM_N6DftQm_G6q_5VJVegN3XeAALSGgACbXM4SddZCa4G2FMhJAQ название видео:AT_5_38.mp4
+2022-06-13 17:56:22.151 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_38.mp4 сохранен в базу данных
+2022-06-13 17:56:22.151 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_38.mp4 сохранен в базу данных
+2022-06-13 17:57:06.018 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR92KnNB_DGAOMEXZlXLaa4Yc7r9XyAALUGgACbXM4SQn0NaPxDfsFJAQ название видео:AT_5_39.mp4
+2022-06-13 17:57:06.018 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR92KnNB_DGAOMEXZlXLaa4Yc7r9XyAALUGgACbXM4SQn0NaPxDfsFJAQ название видео:AT_5_39.mp4
+2022-06-13 17:57:06.240 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_39.mp4 сохранен в базу данных
+2022-06-13 17:57:06.240 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_39.mp4 сохранен в базу данных
+2022-06-13 17:57:46.778 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR-GKnNEjmSmWxh5u0GZxz3ch95xGkAALVGgACbXM4SY-eJaPCyYbUJAQ название видео:AT_5_40.mp4
+2022-06-13 17:57:46.778 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR-GKnNEjmSmWxh5u0GZxz3ch95xGkAALVGgACbXM4SY-eJaPCyYbUJAQ название видео:AT_5_40.mp4
+2022-06-13 17:57:46.941 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_40.mp4 сохранен в базу данных
+2022-06-13 17:57:46.941 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_40.mp4 сохранен в базу данных
+2022-06-13 17:58:25.431 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR-WKnNG82YsnE0mVXdJVnztj9eXz5AALXGgACbXM4SZaFQXNtATNOJAQ название видео:AT_5_41.mp4
+2022-06-13 17:58:25.431 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR-WKnNG82YsnE0mVXdJVnztj9eXz5AALXGgACbXM4SZaFQXNtATNOJAQ название видео:AT_5_41.mp4
+2022-06-13 17:58:25.645 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_41.mp4 сохранен в базу данных
+2022-06-13 17:58:25.645 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_41.mp4 сохранен в базу данных
+2022-06-13 17:58:59.484 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR-mKnNJFX0xLRq4CHfMEBC92FF0bJAALYGgACbXM4SeO2v0CZ1AYsJAQ название видео:AT_5_42.mp4
+2022-06-13 17:58:59.484 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR-mKnNJFX0xLRq4CHfMEBC92FF0bJAALYGgACbXM4SeO2v0CZ1AYsJAQ название видео:AT_5_42.mp4
+2022-06-13 17:58:59.627 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_42.mp4 сохранен в базу данных
+2022-06-13 17:58:59.627 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_42.mp4 сохранен в базу данных
+2022-06-13 17:59:37.006 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR-2KnNLZpVl6UspJyLGimlM4Pyj-QAALbGgACbXM4SbRKJrCLN3OnJAQ название видео:AT_5_43.mp4
+2022-06-13 17:59:37.006 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR-2KnNLZpVl6UspJyLGimlM4Pyj-QAALbGgACbXM4SbRKJrCLN3OnJAQ название видео:AT_5_43.mp4
+2022-06-13 17:59:37.143 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_43.mp4 сохранен в базу данных
+2022-06-13 17:59:37.143 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_43.mp4 сохранен в базу данных
+2022-06-13 18:00:17.596 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR_GKnNN-MYmTganc1LVun_wzkFCbIAALcGgACbXM4SQZw5y_bME6LJAQ название видео:AT_5_44.mp4
+2022-06-13 18:00:17.596 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR_GKnNN-MYmTganc1LVun_wzkFCbIAALcGgACbXM4SQZw5y_bME6LJAQ название видео:AT_5_44.mp4
+2022-06-13 18:00:17.757 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_44.mp4 сохранен в базу данных
+2022-06-13 18:00:17.757 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_44.mp4 сохранен в базу данных
+2022-06-13 18:01:09.730 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR_WKnNRNnLTe94lhWwH4TRnV6PfYSAALdGgACbXM4STjKpOa6xCZlJAQ название видео:AT_5_45.mp4
+2022-06-13 18:01:09.730 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR_WKnNRNnLTe94lhWwH4TRnV6PfYSAALdGgACbXM4STjKpOa6xCZlJAQ название видео:AT_5_45.mp4
+2022-06-13 18:01:10.240 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_45.mp4 сохранен в базу данных
+2022-06-13 18:01:10.240 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_45.mp4 сохранен в базу данных
+2022-06-13 18:01:48.972 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR_mKnNTrqu8Zvp4nOuiDcFG2qdprUAALeGgACbXM4SUhkDnrbiXSuJAQ название видео:AT_5_46.mp4
+2022-06-13 18:01:48.972 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR_mKnNTrqu8Zvp4nOuiDcFG2qdprUAALeGgACbXM4SUhkDnrbiXSuJAQ название видео:AT_5_46.mp4
+2022-06-13 18:01:49.097 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_46.mp4 сохранен в базу данных
+2022-06-13 18:01:49.097 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_46.mp4 сохранен в базу данных
+2022-06-13 18:02:40.156 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR_2KnNW3yd-vie6JWemIJ-9I_Rj5uAALfGgACbXM4SUAmgbZDl1M7JAQ название видео:AT_5_47.mp4
+2022-06-13 18:02:40.156 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIR_2KnNW3yd-vie6JWemIJ-9I_Rj5uAALfGgACbXM4SUAmgbZDl1M7JAQ название видео:AT_5_47.mp4
+2022-06-13 18:02:40.272 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_47.mp4 сохранен в базу данных
+2022-06-13 18:02:40.272 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_47.mp4 сохранен в базу данных
+2022-06-13 18:03:27.352 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISAAFipzWdNiGRN6mARFjPuwuRXj5VMQAC4RoAAm1zOEn-Y27GRCQw0iQE название видео:AT_5_48.mp4
+2022-06-13 18:03:27.352 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISAAFipzWdNiGRN6mARFjPuwuRXj5VMQAC4RoAAm1zOEn-Y27GRCQw0iQE название видео:AT_5_48.mp4
+2022-06-13 18:03:27.615 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_48.mp4 сохранен в базу данных
+2022-06-13 18:03:27.615 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_48.mp4 сохранен в базу данных
+2022-06-13 18:04:42.321 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISAWKnNec1gTeCPxptAAFt1Kx6rGd_pAAC5BoAAm1zOEnG_HVsPelg8CQE название видео:AT_5_49.mp4
+2022-06-13 18:04:42.321 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISAWKnNec1gTeCPxptAAFt1Kx6rGd_pAAC5BoAAm1zOEnG_HVsPelg8CQE название видео:AT_5_49.mp4
+2022-06-13 18:04:42.464 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_49.mp4 сохранен в базу данных
+2022-06-13 18:04:42.464 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_49.mp4 сохранен в базу данных
+2022-06-13 18:05:20.786 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISAmKnNg5auac2YStU3p1jh5JlVKNhAALlGgACbXM4SZjsIL7ZSAqKJAQ название видео:AT_5_50.mp4
+2022-06-13 18:05:20.786 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISAmKnNg5auac2YStU3p1jh5JlVKNhAALlGgACbXM4SZjsIL7ZSAqKJAQ название видео:AT_5_50.mp4
+2022-06-13 18:05:20.974 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_50.mp4 сохранен в базу данных
+2022-06-13 18:05:20.974 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_50.mp4 сохранен в базу данных
+2022-06-13 18:06:04.862 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISA2KnNjphLsj2IE4yeTwuweYlC2WIAALmGgACbXM4SRDFAoxWlSbqJAQ название видео:AT_5_51.mp4
+2022-06-13 18:06:04.862 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISA2KnNjphLsj2IE4yeTwuweYlC2WIAALmGgACbXM4SRDFAoxWlSbqJAQ название видео:AT_5_51.mp4
+2022-06-13 18:06:05.022 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_51.mp4 сохранен в базу данных
+2022-06-13 18:06:05.022 | SUCCESS  | bot.bot:video_file_id:165 - AT_5_51.mp4 сохранен в базу данных
+2022-06-13 18:06:42.536 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISBGKnNmDgx13WFWuNwlGndC4y99xUAALnGgACbXM4SYbZEji4-IGZJAQ название видео:AT_6_1.mp4
+2022-06-13 18:06:42.536 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISBGKnNmDgx13WFWuNwlGndC4y99xUAALnGgACbXM4SYbZEji4-IGZJAQ название видео:AT_6_1.mp4
+2022-06-13 18:06:42.704 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_1.mp4 сохранен в базу данных
+2022-06-13 18:06:42.704 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_1.mp4 сохранен в базу данных
+2022-06-13 18:07:24.526 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISBWKnNopeyGhLZDBRnXW8WVe1bAWgAALpGgACbXM4SZGqg7UJ8QodJAQ название видео:AT_6_2.mp4
+2022-06-13 18:07:24.526 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISBWKnNopeyGhLZDBRnXW8WVe1bAWgAALpGgACbXM4SZGqg7UJ8QodJAQ название видео:AT_6_2.mp4
+2022-06-13 18:07:24.707 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_2.mp4 сохранен в базу данных
+2022-06-13 18:07:24.707 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_2.mp4 сохранен в базу данных
+2022-06-13 18:08:09.024 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISBmKnNrYSj98Pxp4PTdYsEHHW2BD4AALrGgACbXM4STJ-tPFGEdoZJAQ название видео:AT_6_3.mp4
+2022-06-13 18:08:09.024 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISBmKnNrYSj98Pxp4PTdYsEHHW2BD4AALrGgACbXM4STJ-tPFGEdoZJAQ название видео:AT_6_3.mp4
+2022-06-13 18:08:09.332 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_3.mp4 сохранен в базу данных
+2022-06-13 18:08:09.332 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_3.mp4 сохранен в базу данных
+2022-06-13 18:08:44.837 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISB2KnNtpW_Tyq_EHJ9OCSbTMwzFglAALsGgACbXM4ScQDhNoSQeUnJAQ название видео:AT_6_4.mp4
+2022-06-13 18:08:44.837 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISB2KnNtpW_Tyq_EHJ9OCSbTMwzFglAALsGgACbXM4ScQDhNoSQeUnJAQ название видео:AT_6_4.mp4
+2022-06-13 18:08:44.977 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_4.mp4 сохранен в базу данных
+2022-06-13 18:08:44.977 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_4.mp4 сохранен в базу данных
+2022-06-13 18:09:25.658 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISCGKnNwPpH7zFG7XCzSqiJY7LNeacAALtGgACbXM4SWnsVTsBiZBUJAQ название видео:AT_6_5.mp4
+2022-06-13 18:09:25.658 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISCGKnNwPpH7zFG7XCzSqiJY7LNeacAALtGgACbXM4SWnsVTsBiZBUJAQ название видео:AT_6_5.mp4
+2022-06-13 18:09:25.815 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_5.mp4 сохранен в базу данных
+2022-06-13 18:09:25.815 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_5.mp4 сохранен в базу данных
+2022-06-13 18:10:06.880 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISCWKnNyzdktdhvzFTdQeTFhOM5DheAALuGgACbXM4SXRsX5gLM08fJAQ название видео:AT_6_6.mp4
+2022-06-13 18:10:06.880 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISCWKnNyzdktdhvzFTdQeTFhOM5DheAALuGgACbXM4SXRsX5gLM08fJAQ название видео:AT_6_6.mp4
+2022-06-13 18:10:07.079 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_6.mp4 сохранен в базу данных
+2022-06-13 18:10:07.079 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_6.mp4 сохранен в базу данных
+2022-06-13 18:11:09.581 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISCmKnN2tue2u_6PBSs7BbPaa2YanFAALvGgACbXM4SRDMIaNQmqvuJAQ название видео:AT_6_7.mp4
+2022-06-13 18:11:09.581 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISCmKnN2tue2u_6PBSs7BbPaa2YanFAALvGgACbXM4SRDMIaNQmqvuJAQ название видео:AT_6_7.mp4
+2022-06-13 18:11:09.728 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_7.mp4 сохранен в базу данных
+2022-06-13 18:11:09.728 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_7.mp4 сохранен в базу данных
+2022-06-13 18:11:53.372 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISC2KnN5fNWnhS9raa8mgIQ9_WLHYFAALwGgACbXM4SYlYKkw9dZ5nJAQ название видео:AT_6_8.mp4
+2022-06-13 18:11:53.372 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISC2KnN5fNWnhS9raa8mgIQ9_WLHYFAALwGgACbXM4SYlYKkw9dZ5nJAQ название видео:AT_6_8.mp4
+2022-06-13 18:11:53.501 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_8.mp4 сохранен в базу данных
+2022-06-13 18:11:53.501 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_8.mp4 сохранен в базу данных
+2022-06-13 18:12:38.066 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISDGKnN8Pq4T68KQQQD5pr04YOUsj9AALxGgACbXM4SYjhiVwxCdddJAQ название видео:AT_6_9.mp4
+2022-06-13 18:12:38.066 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISDGKnN8Pq4T68KQQQD5pr04YOUsj9AALxGgACbXM4SYjhiVwxCdddJAQ название видео:AT_6_9.mp4
+2022-06-13 18:12:38.221 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_9.mp4 сохранен в базу данных
+2022-06-13 18:12:38.221 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_9.mp4 сохранен в базу данных
+2022-06-13 18:13:20.325 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISDWKnN-0sHrRWKcUHRkBqkV3eTG0xAALyGgACbXM4ScsUVC-iFaN9JAQ название видео:AT_6_10.mp4
+2022-06-13 18:13:20.325 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISDWKnN-0sHrRWKcUHRkBqkV3eTG0xAALyGgACbXM4ScsUVC-iFaN9JAQ название видео:AT_6_10.mp4
+2022-06-13 18:13:20.480 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_10.mp4 сохранен в базу данных
+2022-06-13 18:13:20.480 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_10.mp4 сохранен в базу данных
+2022-06-13 18:13:55.802 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISDmKnOBFe9VazkVu0_2lL13eOzx11AALzGgACbXM4SaoqZMnLpoD0JAQ название видео:AT_6_11.mp4
+2022-06-13 18:13:55.802 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISDmKnOBFe9VazkVu0_2lL13eOzx11AALzGgACbXM4SaoqZMnLpoD0JAQ название видео:AT_6_11.mp4
+2022-06-13 18:13:55.946 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_11.mp4 сохранен в базу данных
+2022-06-13 18:13:55.946 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_11.mp4 сохранен в базу данных
+2022-06-13 18:14:31.319 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISD2KnODT4uE9Oo0M1iVhjlogcrnU7AAL0GgACbXM4SX-q5UKEto--JAQ название видео:AT_6_12.mp4
+2022-06-13 18:14:31.319 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISD2KnODT4uE9Oo0M1iVhjlogcrnU7AAL0GgACbXM4SX-q5UKEto--JAQ название видео:AT_6_12.mp4
+2022-06-13 18:14:31.493 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_12.mp4 сохранен в базу данных
+2022-06-13 18:14:31.493 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_12.mp4 сохранен в базу данных
+2022-06-13 18:14:57.777 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISEGKnOE8N5HbEzrFc9GfL2YpGSAqEAAL1GgACbXM4SRz0wb247BSyJAQ название видео:AT_6_13.mp4
+2022-06-13 18:14:57.777 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISEGKnOE8N5HbEzrFc9GfL2YpGSAqEAAL1GgACbXM4SRz0wb247BSyJAQ название видео:AT_6_13.mp4
+2022-06-13 18:14:57.903 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_13.mp4 сохранен в базу данных
+2022-06-13 18:14:57.903 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_13.mp4 сохранен в базу данных
+2022-06-13 18:15:38.366 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISEWKnOHfXgCXqFkPKQAakpsXYzuCUAAL2GgACbXM4SXYUb38HljFlJAQ название видео:AT_6_14.mp4
+2022-06-13 18:15:38.366 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISEWKnOHfXgCXqFkPKQAakpsXYzuCUAAL2GgACbXM4SXYUb38HljFlJAQ название видео:AT_6_14.mp4
+2022-06-13 18:15:38.481 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_14.mp4 сохранен в базу данных
+2022-06-13 18:15:38.481 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_14.mp4 сохранен в базу данных
+2022-06-13 18:16:26.318 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISEmKnOKe6N2ddY6NEFFMdFKHr4h2dAAL3GgACbXM4SdlLFcHOelSjJAQ название видео:AT_6_15.mp4
+2022-06-13 18:16:26.318 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISEmKnOKe6N2ddY6NEFFMdFKHr4h2dAAL3GgACbXM4SdlLFcHOelSjJAQ название видео:AT_6_15.mp4
+2022-06-13 18:16:26.505 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_15.mp4 сохранен в базу данных
+2022-06-13 18:16:26.505 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_15.mp4 сохранен в базу данных
+2022-06-13 18:17:02.074 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISE2KnOMu57nlKgF0MK_dWcem4xXavAAL4GgACbXM4Sfjda7XPQvT0JAQ название видео:AT_6_16.mp4
+2022-06-13 18:17:02.074 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISE2KnOMu57nlKgF0MK_dWcem4xXavAAL4GgACbXM4Sfjda7XPQvT0JAQ название видео:AT_6_16.mp4
+2022-06-13 18:17:02.205 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_16.mp4 сохранен в базу данных
+2022-06-13 18:17:02.205 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_16.mp4 сохранен в базу данных
+2022-06-13 18:17:39.602 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISFGKnOPGomQ2mzQfsT6RL4AF2wuH-AAL6GgACbXM4SebMPcmvIhW_JAQ название видео:AT_6_17.mp4
+2022-06-13 18:17:39.602 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISFGKnOPGomQ2mzQfsT6RL4AF2wuH-AAL6GgACbXM4SebMPcmvIhW_JAQ название видео:AT_6_17.mp4
+2022-06-13 18:17:39.729 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_17.mp4 сохранен в базу данных
+2022-06-13 18:17:39.729 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_17.mp4 сохранен в базу данных
+2022-06-13 18:18:18.281 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISFWKnORcMK2TXJb3CP997c7KnEj0jAAL7GgACbXM4SZrxatb-89h2JAQ название видео:AT_6_18.mp4
+2022-06-13 18:18:18.281 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISFWKnORcMK2TXJb3CP997c7KnEj0jAAL7GgACbXM4SZrxatb-89h2JAQ название видео:AT_6_18.mp4
+2022-06-13 18:18:18.454 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_18.mp4 сохранен в базу данных
+2022-06-13 18:18:18.454 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_18.mp4 сохранен в базу данных
+2022-06-13 18:18:57.083 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISFmKnOT4FVJTi8_Fq6-x4ceKUs5MPAAL8GgACbXM4Sf-hWQnu7MN6JAQ название видео:AT_6_19.mp4
+2022-06-13 18:18:57.083 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISFmKnOT4FVJTi8_Fq6-x4ceKUs5MPAAL8GgACbXM4Sf-hWQnu7MN6JAQ название видео:AT_6_19.mp4
+2022-06-13 18:18:57.252 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_19.mp4 сохранен в базу данных
+2022-06-13 18:18:57.252 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_19.mp4 сохранен в базу данных
+2022-06-13 18:19:42.657 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISF2KnOWx82-Ydut3fD5sOhJF7V1A2AAL9GgACbXM4SW3fy6NcMdEmJAQ название видео:AT_6_20.mp4
+2022-06-13 18:19:42.657 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISF2KnOWx82-Ydut3fD5sOhJF7V1A2AAL9GgACbXM4SW3fy6NcMdEmJAQ название видео:AT_6_20.mp4
+2022-06-13 18:19:42.962 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_20.mp4 сохранен в базу данных
+2022-06-13 18:19:42.962 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_20.mp4 сохранен в базу данных
+2022-06-13 18:20:30.526 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISGGKnOZxdGBNLywgmKXaM_ggpTQWEAAL-GgACbXM4Se9GBryksrG6JAQ название видео:AT_6_21.mp4
+2022-06-13 18:20:30.526 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISGGKnOZxdGBNLywgmKXaM_ggpTQWEAAL-GgACbXM4Se9GBryksrG6JAQ название видео:AT_6_21.mp4
+2022-06-13 18:20:30.828 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_21.mp4 сохранен в базу данных
+2022-06-13 18:20:30.828 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_21.mp4 сохранен в базу данных
+2022-06-13 18:21:20.355 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISGWKnOc2Pg-rSWxlyQBW_BTFWYXuGAAL_GgACbXM4SUpr-qpPoNStJAQ название видео:AT_6_22.mp4
+2022-06-13 18:21:20.355 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISGWKnOc2Pg-rSWxlyQBW_BTFWYXuGAAL_GgACbXM4SUpr-qpPoNStJAQ название видео:AT_6_22.mp4
+2022-06-13 18:21:20.540 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_22.mp4 сохранен в базу данных
+2022-06-13 18:21:20.540 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_22.mp4 сохранен в базу данных
+2022-06-13 18:22:01.793 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISGmKnOfeobZtdjLkNJaISXq0_vmvRAAMbAAJtczhJAgwMJKFAfVskBA название видео:AT_6_23.mp4
+2022-06-13 18:22:01.793 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISGmKnOfeobZtdjLkNJaISXq0_vmvRAAMbAAJtczhJAgwMJKFAfVskBA название видео:AT_6_23.mp4
+2022-06-13 18:22:01.920 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_23.mp4 сохранен в базу данных
+2022-06-13 18:22:01.920 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_23.mp4 сохранен в базу данных
+2022-06-13 18:22:43.746 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISG2KnOiHwtxMOMnk3I1U4-Egfr2ijAAIBGwACbXM4SSiSMM9Eqw8fJAQ название видео:AT_6_24.mp4
+2022-06-13 18:22:43.746 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISG2KnOiHwtxMOMnk3I1U4-Egfr2ijAAIBGwACbXM4SSiSMM9Eqw8fJAQ название видео:AT_6_24.mp4
+2022-06-13 18:22:43.913 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_24.mp4 сохранен в базу данных
+2022-06-13 18:22:43.913 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_24.mp4 сохранен в базу данных
+2022-06-13 18:23:25.215 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISHGKnOkqOZdVzU7AiokFryMZ3E2qsAAICGwACbXM4ST9eog0fGaZhJAQ название видео:AT_6_25.mp4
+2022-06-13 18:23:25.215 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISHGKnOkqOZdVzU7AiokFryMZ3E2qsAAICGwACbXM4ST9eog0fGaZhJAQ название видео:AT_6_25.mp4
+2022-06-13 18:23:25.440 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_25.mp4 сохранен в базу данных
+2022-06-13 18:23:25.440 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_25.mp4 сохранен в базу данных
+2022-06-13 18:24:07.548 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISHWKnOnUC8HBkP73l0VOJG4yCyWuGAAIEGwACbXM4STFUE7l7NyX3JAQ название видео:AT_6_26.mp4
+2022-06-13 18:24:07.548 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISHWKnOnUC8HBkP73l0VOJG4yCyWuGAAIEGwACbXM4STFUE7l7NyX3JAQ название видео:AT_6_26.mp4
+2022-06-13 18:24:07.697 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_26.mp4 сохранен в базу данных
+2022-06-13 18:24:07.697 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_26.mp4 сохранен в базу данных
+2022-06-13 18:24:46.665 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISHmKnOpzRuT2l32QTG3IVhrIEE17EAAIFGwACbXM4SV5xhxo7QEAlJAQ название видео:AT_6_27.mp4
+2022-06-13 18:24:46.665 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISHmKnOpzRuT2l32QTG3IVhrIEE17EAAIFGwACbXM4SV5xhxo7QEAlJAQ название видео:AT_6_27.mp4
+2022-06-13 18:24:46.937 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_27.mp4 сохранен в базу данных
+2022-06-13 18:24:46.937 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_27.mp4 сохранен в базу данных
+2022-06-13 18:25:26.311 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISH2KnOsMspeYu0Jy1x8HJIUpX4-UiAAIGGwACbXM4STSMH-gNNXKVJAQ название видео:AT_6_28.mp4
+2022-06-13 18:25:26.311 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISH2KnOsMspeYu0Jy1x8HJIUpX4-UiAAIGGwACbXM4STSMH-gNNXKVJAQ название видео:AT_6_28.mp4
+2022-06-13 18:25:26.610 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_28.mp4 сохранен в базу данных
+2022-06-13 18:25:26.610 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_28.mp4 сохранен в базу данных
+2022-06-13 18:26:05.781 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISIGKnOus-NBjjcfpFa1cDZIkHJnO6AAIJGwACbXM4SY8jUvmBMbMRJAQ название видео:AT_6_29.mp4
+2022-06-13 18:26:05.781 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISIGKnOus-NBjjcfpFa1cDZIkHJnO6AAIJGwACbXM4SY8jUvmBMbMRJAQ название видео:AT_6_29.mp4
+2022-06-13 18:26:05.986 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_29.mp4 сохранен в базу данных
+2022-06-13 18:26:05.986 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_29.mp4 сохранен в базу данных
+2022-06-13 18:26:41.803 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISIWKnOw9KVsMdqg9eX2kIgR2PhV0TAAIMGwACbXM4Sftde1zddpINJAQ название видео:AT_6_30.mp4
+2022-06-13 18:26:41.803 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISIWKnOw9KVsMdqg9eX2kIgR2PhV0TAAIMGwACbXM4Sftde1zddpINJAQ название видео:AT_6_30.mp4
+2022-06-13 18:26:41.950 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_30.mp4 сохранен в базу данных
+2022-06-13 18:26:41.950 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_30.mp4 сохранен в базу данных
+2022-06-13 18:27:22.427 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISImKnOzfW1ep-DHF8dLzKZePPfNfXAAIOGwACbXM4SQ_JYwz0bbmkJAQ название видео:AT_6_31.mp4
+2022-06-13 18:27:22.427 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISImKnOzfW1ep-DHF8dLzKZePPfNfXAAIOGwACbXM4SQ_JYwz0bbmkJAQ название видео:AT_6_31.mp4
+2022-06-13 18:27:22.546 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_31.mp4 сохранен в базу данных
+2022-06-13 18:27:22.546 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_31.mp4 сохранен в базу данных
+2022-06-13 18:27:59.601 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISI2KnO11PJ-_8eEK7-lcULPSMCW4DAAIQGwACbXM4SccBv9MS7iEiJAQ название видео:AT_6_32.mp4
+2022-06-13 18:27:59.601 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISI2KnO11PJ-_8eEK7-lcULPSMCW4DAAIQGwACbXM4SccBv9MS7iEiJAQ название видео:AT_6_32.mp4
+2022-06-13 18:27:59.921 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_32.mp4 сохранен в базу данных
+2022-06-13 18:27:59.921 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_32.mp4 сохранен в базу данных
+2022-06-13 18:28:37.608 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISJGKnO4MiH_yiFMUJaCS1VR2MK2xBAAIRGwACbXM4SUoFjz6dXSPEJAQ название видео:AT_6_33.mp4
+2022-06-13 18:28:37.608 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISJGKnO4MiH_yiFMUJaCS1VR2MK2xBAAIRGwACbXM4SUoFjz6dXSPEJAQ название видео:AT_6_33.mp4
+2022-06-13 18:28:37.766 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_33.mp4 сохранен в базу данных
+2022-06-13 18:28:37.766 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_33.mp4 сохранен в базу данных
+2022-06-13 18:29:14.217 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISJ2KnO6dGnOQnQjCf6-6e5AXlNZuMAAISGwACbXM4SV2Izb0K-1OQJAQ название видео:AT_6_34.mp4
+2022-06-13 18:29:14.217 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISJ2KnO6dGnOQnQjCf6-6e5AXlNZuMAAISGwACbXM4SV2Izb0K-1OQJAQ название видео:AT_6_34.mp4
+2022-06-13 18:29:14.399 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_34.mp4 сохранен в базу данных
+2022-06-13 18:29:14.399 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_34.mp4 сохранен в базу данных
+2022-06-13 18:29:53.907 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISKGKnO8_qvcDQJ59WNvKeHRfoyhXVAAITGwACbXM4SYtyiX-r3TOTJAQ название видео:AT_6_35.mp4
+2022-06-13 18:29:53.907 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISKGKnO8_qvcDQJ59WNvKeHRfoyhXVAAITGwACbXM4SYtyiX-r3TOTJAQ название видео:AT_6_35.mp4
+2022-06-13 18:29:54.160 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_35.mp4 сохранен в базу данных
+2022-06-13 18:29:54.160 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_35.mp4 сохранен в базу данных
+2022-06-13 18:30:39.891 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISKWKnO_2m1_bK2oR4PYqGTlScP14sAAIUGwACbXM4SbgeRlvD1-htJAQ название видео:AT_6_36.mp4
+2022-06-13 18:30:39.891 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISKWKnO_2m1_bK2oR4PYqGTlScP14sAAIUGwACbXM4SbgeRlvD1-htJAQ название видео:AT_6_36.mp4
+2022-06-13 18:30:40.191 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_36.mp4 сохранен в базу данных
+2022-06-13 18:30:40.191 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_36.mp4 сохранен в базу данных
+2022-06-13 18:31:18.680 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISNmKnPCRofC_Ohb0tnnWS9mnNMJyZAAIVGwACbXM4SWsKjrbzKMOwJAQ название видео:AT_6_37.mp4
+2022-06-13 18:31:18.680 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISNmKnPCRofC_Ohb0tnnWS9mnNMJyZAAIVGwACbXM4SWsKjrbzKMOwJAQ название видео:AT_6_37.mp4
+2022-06-13 18:31:18.813 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_37.mp4 сохранен в базу данных
+2022-06-13 18:31:18.813 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_37.mp4 сохранен в базу данных
+2022-06-13 18:31:53.575 | DEBUG    | bot.bot:write_db_video_rick:421 - babayka57 выбрал Время Приключений
+2022-06-13 18:31:53.575 | DEBUG    | bot.bot:write_db_video_rick:421 - babayka57 выбрал Время Приключений
+2022-06-13 18:31:57.529 | DEBUG    | bot.bot:get_sezon_rick:432 - babayka57 ввёл номер сезона 1
+2022-06-13 18:31:57.529 | DEBUG    | bot.bot:get_sezon_rick:432 - babayka57 ввёл номер сезона 1
+2022-06-13 18:31:59.267 | DEBUG    | bot.bot:get_seriya_rick:501 - babayka57 выбрал Сезон:1 Серию:1
+2022-06-13 18:31:59.267 | DEBUG    | bot.bot:get_seriya_rick:501 - babayka57 выбрал Сезон:1 Серию:1
+2022-06-13 18:32:31.909 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISQWKnPG10fRzZwn6UTZhWBfEY78rgAAIYGwACbXM4ST900yWMPFWdJAQ название видео:AT_6_39.mp4
+2022-06-13 18:32:31.909 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISQWKnPG10fRzZwn6UTZhWBfEY78rgAAIYGwACbXM4ST900yWMPFWdJAQ название видео:AT_6_39.mp4
+2022-06-13 18:32:32.043 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_39.mp4 сохранен в базу данных
+2022-06-13 18:32:32.043 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_39.mp4 сохранен в базу данных
+2022-06-13 18:33:09.901 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISQmKnPJN8pFAQNuQZ1We8nUoa40mcAAIaGwACbXM4SaaZdaFDEc4wJAQ название видео:AT_6_40.mp4
+2022-06-13 18:33:09.901 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISQmKnPJN8pFAQNuQZ1We8nUoa40mcAAIaGwACbXM4SaaZdaFDEc4wJAQ название видео:AT_6_40.mp4
+2022-06-13 18:33:10.172 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_40.mp4 сохранен в базу данных
+2022-06-13 18:33:10.172 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_40.mp4 сохранен в базу данных
+2022-06-13 18:33:49.670 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISQ2KnPLuOAAFQne621qHQZTx67RCGjAACHBsAAm1zOEnfKiOZ7pnxPiQE название видео:AT_6_41.mp4
+2022-06-13 18:33:49.670 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISQ2KnPLuOAAFQne621qHQZTx67RCGjAACHBsAAm1zOEnfKiOZ7pnxPiQE название видео:AT_6_41.mp4
+2022-06-13 18:33:49.938 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_41.mp4 сохранен в базу данных
+2022-06-13 18:33:49.938 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_41.mp4 сохранен в базу данных
+2022-06-13 18:34:23.331 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISRGKnPNzzyrNAhllRO51-vddEKhA-AAIdGwACbXM4SdkIZwNNjh-SJAQ название видео:AT_6_42.mp4
+2022-06-13 18:34:23.331 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISRGKnPNzzyrNAhllRO51-vddEKhA-AAIdGwACbXM4SdkIZwNNjh-SJAQ название видео:AT_6_42.mp4
+2022-06-13 18:34:23.496 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_42.mp4 сохранен в базу данных
+2022-06-13 18:34:23.496 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_42.mp4 сохранен в базу данных
+2022-06-13 18:34:59.801 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISRWKnPQEy7wNqMrITKqdrR8Ex1s-8AAIeGwACbXM4SXrQFBwowSPhJAQ название видео:AT_6_43.mp4
+2022-06-13 18:34:59.801 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISRWKnPQEy7wNqMrITKqdrR8Ex1s-8AAIeGwACbXM4SXrQFBwowSPhJAQ название видео:AT_6_43.mp4
+2022-06-13 18:35:00.011 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_43.mp4 сохранен в базу данных
+2022-06-13 18:35:00.011 | SUCCESS  | bot.bot:video_file_id:165 - AT_6_43.mp4 сохранен в базу данных
+2022-06-13 18:35:42.249 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISRmKnPSvPVNaxGdba7NCYqbsCWJcDAAIfGwACbXM4Sc4DxIbs1WhrJAQ название видео:AT_7_1.mp4
+2022-06-13 18:35:42.249 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISRmKnPSvPVNaxGdba7NCYqbsCWJcDAAIfGwACbXM4Sc4DxIbs1WhrJAQ название видео:AT_7_1.mp4
+2022-06-13 18:35:42.386 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_1.mp4 сохранен в базу данных
+2022-06-13 18:35:42.386 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_1.mp4 сохранен в базу данных
+2022-06-13 18:36:27.918 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISR2KnPVlv02p57fOzQ71N_pDT5BREAAIgGwACbXM4SaZ1gHP9AfjvJAQ название видео:AT_7_2.mp4
+2022-06-13 18:36:27.918 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISR2KnPVlv02p57fOzQ71N_pDT5BREAAIgGwACbXM4SaZ1gHP9AfjvJAQ название видео:AT_7_2.mp4
+2022-06-13 18:36:28.186 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_2.mp4 сохранен в базу данных
+2022-06-13 18:36:28.186 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_2.mp4 сохранен в базу данных
+2022-06-13 18:37:42.686 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISSGKnPaRS8G-m_etMVSueN7hHa7UMAAIhGwACbXM4SY-su7NBUGV6JAQ название видео:AT_7_3.mp4
+2022-06-13 18:37:42.686 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISSGKnPaRS8G-m_etMVSueN7hHa7UMAAIhGwACbXM4SY-su7NBUGV6JAQ название видео:AT_7_3.mp4
+2022-06-13 18:37:42.867 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_3.mp4 сохранен в базу данных
+2022-06-13 18:37:42.867 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_3.mp4 сохранен в базу данных
+2022-06-13 18:38:36.029 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISSWKnPdmcTmo9olRMJqZAHz9JlRbMAAIjGwACbXM4SVsQBokYMWZ4JAQ название видео:AT_7_4.mp4
+2022-06-13 18:38:36.029 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISSWKnPdmcTmo9olRMJqZAHz9JlRbMAAIjGwACbXM4SVsQBokYMWZ4JAQ название видео:AT_7_4.mp4
+2022-06-13 18:38:36.181 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_4.mp4 сохранен в базу данных
+2022-06-13 18:38:36.181 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_4.mp4 сохранен в базу данных
+2022-06-13 18:39:52.518 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISSmKnPiaHfEh3Pgu2FpRv6u5cNHqsAAIkGwACbXM4SfJ9DVimQy_hJAQ название видео:AT_7_5.mp4
+2022-06-13 18:39:52.518 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISSmKnPiaHfEh3Pgu2FpRv6u5cNHqsAAIkGwACbXM4SfJ9DVimQy_hJAQ название видео:AT_7_5.mp4
+2022-06-13 18:39:52.676 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_5.mp4 сохранен в базу данных
+2022-06-13 18:39:52.676 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_5.mp4 сохранен в базу данных
+2022-06-13 18:41:13.213 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISS2KnPnaey9KYMrhzVSCBwc8jepcJAAIlGwACbXM4SYsVHJCeLj3KJAQ название видео:AT_7_6.mp4
+2022-06-13 18:41:13.213 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISS2KnPnaey9KYMrhzVSCBwc8jepcJAAIlGwACbXM4SYsVHJCeLj3KJAQ название видео:AT_7_6.mp4
+2022-06-13 18:41:13.421 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_6.mp4 сохранен в базу данных
+2022-06-13 18:41:13.421 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_6.mp4 сохранен в базу данных
+2022-06-13 18:42:27.093 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISTGKnPsA3YPu0cSiuQlNDLEGDmPjOAAInGwACbXM4SdmJ3pYQR-EUJAQ название видео:AT_7_7.mp4
+2022-06-13 18:42:27.093 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISTGKnPsA3YPu0cSiuQlNDLEGDmPjOAAInGwACbXM4SdmJ3pYQR-EUJAQ название видео:AT_7_7.mp4
+2022-06-13 18:42:27.258 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_7.mp4 сохранен в базу данных
+2022-06-13 18:42:27.258 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_7.mp4 сохранен в базу данных
+2022-06-13 18:43:45.330 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISTWKnPw6Wy4qFWcwfJCUEDig3PTJqAAIoGwACbXM4SSmxTd6k-MW3JAQ название видео:AT_7_8.mp4
+2022-06-13 18:43:45.330 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISTWKnPw6Wy4qFWcwfJCUEDig3PTJqAAIoGwACbXM4SSmxTd6k-MW3JAQ название видео:AT_7_8.mp4
+2022-06-13 18:43:45.471 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_8.mp4 сохранен в базу данных
+2022-06-13 18:43:45.471 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_8.mp4 сохранен в базу данных
+2022-06-13 18:45:08.379 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISTmKnP2FjZ5gfih_5pLdaRz4bZDqsAAIpGwACbXM4Sf4-2McqAd45JAQ название видео:AT_7_9.mp4
+2022-06-13 18:45:08.379 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISTmKnP2FjZ5gfih_5pLdaRz4bZDqsAAIpGwACbXM4Sf4-2McqAd45JAQ название видео:AT_7_9.mp4
+2022-06-13 18:45:08.555 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_9.mp4 сохранен в базу данных
+2022-06-13 18:45:08.555 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_9.mp4 сохранен в базу данных
+2022-06-13 18:46:23.682 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIST2KnP63gcV1aOjdTwMwp9KQeJ0iyAAIqGwACbXM4SXx7aBXRo-WbJAQ название видео:AT_7_10.mp4
+2022-06-13 18:46:23.682 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIST2KnP63gcV1aOjdTwMwp9KQeJ0iyAAIqGwACbXM4SXx7aBXRo-WbJAQ название видео:AT_7_10.mp4
+2022-06-13 18:46:23.791 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_10.mp4 сохранен в базу данных
+2022-06-13 18:46:23.791 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_10.mp4 сохранен в базу данных
+2022-06-13 18:47:46.762 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISUGKnQAABvubueq6YVmW3yws5LnZewwACLBsAAm1zOEka10XxXRBUBSQE название видео:AT_7_11.mp4
+2022-06-13 18:47:46.762 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISUGKnQAABvubueq6YVmW3yws5LnZewwACLBsAAm1zOEka10XxXRBUBSQE название видео:AT_7_11.mp4
+2022-06-13 18:47:46.978 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_11.mp4 сохранен в базу данных
+2022-06-13 18:47:46.978 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_11.mp4 сохранен в базу данных
+2022-06-13 18:49:14.093 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISUWKnQFeWvxHQ4ILGXke8xproCaV3AAIvGwACbXM4SXvs3NIjemiLJAQ название видео:AT_7_12.mp4
+2022-06-13 18:49:14.093 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISUWKnQFeWvxHQ4ILGXke8xproCaV3AAIvGwACbXM4SXvs3NIjemiLJAQ название видео:AT_7_12.mp4
+2022-06-13 18:49:14.287 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_12.mp4 сохранен в базу данных
+2022-06-13 18:49:14.287 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_12.mp4 сохранен в базу данных
+2022-06-13 18:50:33.601 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISUmKnQKcqHcU-gHmkvzcsiL1w4NY7AAIxGwACbXM4SRMXGc9UUpWpJAQ название видео:AT_7_13.mp4
+2022-06-13 18:50:33.601 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISUmKnQKcqHcU-gHmkvzcsiL1w4NY7AAIxGwACbXM4SRMXGc9UUpWpJAQ название видео:AT_7_13.mp4
+2022-06-13 18:50:33.718 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_13.mp4 сохранен в базу данных
+2022-06-13 18:50:33.718 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_13.mp4 сохранен в базу данных
+2022-06-13 18:52:11.748 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISU2KnQQnTMmLQ4m1IvNkYTUiYf-BeAAIzGwACbXM4SS1qTNynSUbPJAQ название видео:AT_7_14.mp4
+2022-06-13 18:52:11.748 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISU2KnQQnTMmLQ4m1IvNkYTUiYf-BeAAIzGwACbXM4SS1qTNynSUbPJAQ название видео:AT_7_14.mp4
+2022-06-13 18:52:11.892 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_14.mp4 сохранен в базу данных
+2022-06-13 18:52:11.892 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_14.mp4 сохранен в базу данных
+2022-06-13 18:52:48.283 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISVGKnQS1umi_C48j9ym8UowvQYHjKAAI1GwACbXM4STuwdHdgfKOyJAQ название видео:AT_7_15.mp4
+2022-06-13 18:52:48.283 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISVGKnQS1umi_C48j9ym8UowvQYHjKAAI1GwACbXM4STuwdHdgfKOyJAQ название видео:AT_7_15.mp4
+2022-06-13 18:52:48.529 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_15.mp4 сохранен в базу данных
+2022-06-13 18:52:48.529 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_15.mp4 сохранен в базу данных
+2022-06-13 18:53:28.152 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISVWKnQVVnhRg93b4YAAHj9rOJC4wkKQACNhsAAm1zOElXo4vHBo0ZryQE название видео:AT_7_16.mp4
+2022-06-13 18:53:28.152 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISVWKnQVVnhRg93b4YAAHj9rOJC4wkKQACNhsAAm1zOElXo4vHBo0ZryQE название видео:AT_7_16.mp4
+2022-06-13 18:53:28.303 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_16.mp4 сохранен в базу данных
+2022-06-13 18:53:28.303 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_16.mp4 сохранен в базу данных
+2022-06-13 18:54:04.090 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISVmKnQXkY0XQpfmDAkNykMguE4W5VAAI5GwACbXM4SSXGjCGBjY3JJAQ название видео:AT_7_17.mp4
+2022-06-13 18:54:04.090 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISVmKnQXkY0XQpfmDAkNykMguE4W5VAAI5GwACbXM4SSXGjCGBjY3JJAQ название видео:AT_7_17.mp4
+2022-06-13 18:54:04.325 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_17.mp4 сохранен в базу данных
+2022-06-13 18:54:04.325 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_17.mp4 сохранен в базу данных
+2022-06-13 18:54:39.706 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISV2KnQZ0ly69uEPjfYQ6x0XTtHFycAAI7GwACbXM4SeArWFu8pc0UJAQ название видео:AT_7_18.mp4
+2022-06-13 18:54:39.706 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISV2KnQZ0ly69uEPjfYQ6x0XTtHFycAAI7GwACbXM4SeArWFu8pc0UJAQ название видео:AT_7_18.mp4
+2022-06-13 18:54:39.878 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_18.mp4 сохранен в базу данных
+2022-06-13 18:54:39.878 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_18.mp4 сохранен в базу данных
+2022-06-13 18:55:22.676 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISWGKnQciH84WeIAQgyWe-jz2k8G5YAAI8GwACbXM4SYiwaXXZ0VGLJAQ название видео:AT_7_19.mp4
+2022-06-13 18:55:22.676 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISWGKnQciH84WeIAQgyWe-jz2k8G5YAAI8GwACbXM4SYiwaXXZ0VGLJAQ название видео:AT_7_19.mp4
+2022-06-13 18:55:22.935 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_19.mp4 сохранен в базу данных
+2022-06-13 18:55:22.935 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_19.mp4 сохранен в базу данных
+2022-06-13 18:56:00.683 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISWWKnQe67BwLt6F-RlvUZTuwxW03VAAI_GwACbXM4SSluaJdmtuA0JAQ название видео:AT_7_20.mp4
+2022-06-13 18:56:00.683 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISWWKnQe67BwLt6F-RlvUZTuwxW03VAAI_GwACbXM4SSluaJdmtuA0JAQ название видео:AT_7_20.mp4
+2022-06-13 18:56:00.874 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_20.mp4 сохранен в базу данных
+2022-06-13 18:56:00.874 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_20.mp4 сохранен в базу данных
+2022-06-13 18:56:36.049 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISWmKnQhENrNoebnUhXg69PWo29IYzAAJAGwACbXM4SbOR1w9jWfYvJAQ название видео:AT_7_21.mp4
+2022-06-13 18:56:36.049 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISWmKnQhENrNoebnUhXg69PWo29IYzAAJAGwACbXM4SbOR1w9jWfYvJAQ название видео:AT_7_21.mp4
+2022-06-13 18:56:36.173 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_21.mp4 сохранен в базу данных
+2022-06-13 18:56:36.173 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_21.mp4 сохранен в базу данных
+2022-06-13 18:57:34.488 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISW2KnQkz2xrE7H0116nOaidrNxBIFAAJBGwACbXM4SWnPYzJqbaDtJAQ название видео:AT_7_22.mp4
+2022-06-13 18:57:34.488 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISW2KnQkz2xrE7H0116nOaidrNxBIFAAJBGwACbXM4SWnPYzJqbaDtJAQ название видео:AT_7_22.mp4
+2022-06-13 18:57:34.628 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_22.mp4 сохранен в базу данных
+2022-06-13 18:57:34.628 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_22.mp4 сохранен в базу данных
+2022-06-13 18:58:14.416 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISXGKnQnNEwjBBefTpBHqnRRZZZRaBAAJCGwACbXM4SQABUiDB8ni9YCQE название видео:AT_7_23.mp4
+2022-06-13 18:58:14.416 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISXGKnQnNEwjBBefTpBHqnRRZZZRaBAAJCGwACbXM4SQABUiDB8ni9YCQE название видео:AT_7_23.mp4
+2022-06-13 18:58:14.576 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_23.mp4 сохранен в базу данных
+2022-06-13 18:58:14.576 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_23.mp4 сохранен в базу данных
+2022-06-13 18:58:54.626 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISXWKnQpyd-bfmnB24GSmZuyb5YYhHAAJEGwACbXM4SabqQoQa4WAFJAQ название видео:AT_7_24.mp4
+2022-06-13 18:58:54.626 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISXWKnQpyd-bfmnB24GSmZuyb5YYhHAAJEGwACbXM4SabqQoQa4WAFJAQ название видео:AT_7_24.mp4
+2022-06-13 18:58:54.749 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_24.mp4 сохранен в базу данных
+2022-06-13 18:58:54.749 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_24.mp4 сохранен в базу данных
+2022-06-13 18:59:30.737 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISXmKnQsBfe7GprIIt2rj08M-O6qEoAAJGGwACbXM4SaydzmwxD41EJAQ название видео:AT_7_25.mp4
+2022-06-13 18:59:30.737 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISXmKnQsBfe7GprIIt2rj08M-O6qEoAAJGGwACbXM4SaydzmwxD41EJAQ название видео:AT_7_25.mp4
+2022-06-13 18:59:30.892 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_25.mp4 сохранен в базу данных
+2022-06-13 18:59:30.892 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_25.mp4 сохранен в базу данных
+2022-06-13 19:00:17.038 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISX2KnQu6XUZwnGmoNFKw0zc3RgGg2AAJJGwACbXM4Sd7oYhw4MOB8JAQ название видео:AT_7_26.mp4
+2022-06-13 19:00:17.038 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISX2KnQu6XUZwnGmoNFKw0zc3RgGg2AAJJGwACbXM4Sd7oYhw4MOB8JAQ название видео:AT_7_26.mp4
+2022-06-13 19:00:17.292 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_26.mp4 сохранен в базу данных
+2022-06-13 19:00:17.292 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_26.mp4 сохранен в базу данных
+2022-06-13 19:00:52.344 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISYGKnQxFN0zwcH0ve45djxluB8JVWAAJKGwACbXM4STgnydBR6MUxJAQ название видео:AT_7_27.mp4
+2022-06-13 19:00:52.344 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISYGKnQxFN0zwcH0ve45djxluB8JVWAAJKGwACbXM4STgnydBR6MUxJAQ название видео:AT_7_27.mp4
+2022-06-13 19:00:52.610 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_27.mp4 сохранен в базу данных
+2022-06-13 19:00:52.610 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_27.mp4 сохранен в базу данных
+2022-06-13 19:02:09.838 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISYWKnQ15guxTxwleEmfr-n2ujKpWEAAJNGwACbXM4SXZreVxwsowBJAQ название видео:AT_7_28.mp4
+2022-06-13 19:02:09.838 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISYWKnQ15guxTxwleEmfr-n2ujKpWEAAJNGwACbXM4SXZreVxwsowBJAQ название видео:AT_7_28.mp4
+2022-06-13 19:02:09.959 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_28.mp4 сохранен в базу данных
+2022-06-13 19:02:09.959 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_28.mp4 сохранен в базу данных
+2022-06-13 19:02:54.367 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISYmKnQ4vZzxt3j-WLF8lqY-i2XrSpAAJOGwACbXM4Sc2Ynxd_b1X2JAQ название видео:AT_7_29.mp4
+2022-06-13 19:02:54.367 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISYmKnQ4vZzxt3j-WLF8lqY-i2XrSpAAJOGwACbXM4Sc2Ynxd_b1X2JAQ название видео:AT_7_29.mp4
+2022-06-13 19:02:54.597 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_29.mp4 сохранен в базу данных
+2022-06-13 19:02:54.597 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_29.mp4 сохранен в базу данных
+2022-06-13 19:04:12.830 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISY2KnQ9onClBhfELnyuHzAisQ0o68AAJSGwACbXM4SWjtwutfHRXMJAQ название видео:AT_7_30.mp4
+2022-06-13 19:04:12.830 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISY2KnQ9onClBhfELnyuHzAisQ0o68AAJSGwACbXM4SWjtwutfHRXMJAQ название видео:AT_7_30.mp4
+2022-06-13 19:04:12.970 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_30.mp4 сохранен в базу данных
+2022-06-13 19:04:12.970 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_30.mp4 сохранен в базу данных
+2022-06-13 19:05:24.420 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISZGKnRCGZ_rv6FjPLJx7y4tf5pZQQAAJWGwACbXM4SVoevTWXk3C-JAQ название видео:AT_7_31.mp4
+2022-06-13 19:05:24.420 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISZGKnRCGZ_rv6FjPLJx7y4tf5pZQQAAJWGwACbXM4SVoevTWXk3C-JAQ название видео:AT_7_31.mp4
+2022-06-13 19:05:24.619 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_31.mp4 сохранен в базу данных
+2022-06-13 19:05:24.619 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_31.mp4 сохранен в базу данных
+2022-06-13 19:06:56.447 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISZWKnRH0b32El7ZO_esCZyeaO8L2gAAJZGwACbXM4SRbJRpovjZbAJAQ название видео:AT_7_32.mp4
+2022-06-13 19:06:56.447 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISZWKnRH0b32El7ZO_esCZyeaO8L2gAAJZGwACbXM4SRbJRpovjZbAJAQ название видео:AT_7_32.mp4
+2022-06-13 19:06:56.607 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_32.mp4 сохранен в базу данных
+2022-06-13 19:06:56.607 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_32.mp4 сохранен в базу данных
+2022-06-13 19:08:10.428 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISZmKnRMcOmt5uMWlQl56clW6fx552AAJaGwACbXM4SXE8sTTiN2YCJAQ название видео:AT_7_33.mp4
+2022-06-13 19:08:10.428 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISZmKnRMcOmt5uMWlQl56clW6fx552AAJaGwACbXM4SXE8sTTiN2YCJAQ название видео:AT_7_33.mp4
+2022-06-13 19:08:10.604 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_33.mp4 сохранен в базу данных
+2022-06-13 19:08:10.604 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_33.mp4 сохранен в базу данных
+2022-06-13 19:09:28.717 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISZ2KnRRY_1Yh7UdrGATu5iTu_7PbaAAJbGwACbXM4SbBfaqgMxXPXJAQ название видео:AT_7_34.mp4
+2022-06-13 19:09:28.717 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISZ2KnRRY_1Yh7UdrGATu5iTu_7PbaAAJbGwACbXM4SbBfaqgMxXPXJAQ название видео:AT_7_34.mp4
+2022-06-13 19:09:28.930 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_34.mp4 сохранен в базу данных
+2022-06-13 19:09:28.930 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_34.mp4 сохранен в базу данных
+2022-06-13 19:10:49.440 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISaGKnRWblJuHWaTe-kY6L5hmcLd-2AAJdGwACbXM4SfTbjxFFBLrnJAQ название видео:AT_7_35.mp4
+2022-06-13 19:10:49.440 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISaGKnRWblJuHWaTe-kY6L5hmcLd-2AAJdGwACbXM4SfTbjxFFBLrnJAQ название видео:AT_7_35.mp4
+2022-06-13 19:10:49.630 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_35.mp4 сохранен в базу данных
+2022-06-13 19:10:49.630 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_35.mp4 сохранен в базу данных
+2022-06-13 19:12:02.316 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISaWKnRa_2-ghdaPJvkZm-49rAzyYlAAJeGwACbXM4SYwhtw1zO6lkJAQ название видео:AT_7_36.mp4
+2022-06-13 19:12:02.316 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISaWKnRa_2-ghdaPJvkZm-49rAzyYlAAJeGwACbXM4SYwhtw1zO6lkJAQ название видео:AT_7_36.mp4
+2022-06-13 19:12:02.482 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_36.mp4 сохранен в базу данных
+2022-06-13 19:12:02.482 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_36.mp4 сохранен в базу данных
+2022-06-13 19:13:24.799 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISamKnRgLlqeBREnTXK3av5l-RgflhAAJgGwACbXM4Sc_Ld-OZKtd5JAQ название видео:AT_7_37.mp4
+2022-06-13 19:13:24.799 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISamKnRgLlqeBREnTXK3av5l-RgflhAAJgGwACbXM4Sc_Ld-OZKtd5JAQ название видео:AT_7_37.mp4
+2022-06-13 19:13:24.950 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_37.mp4 сохранен в базу данных
+2022-06-13 19:13:24.950 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_37.mp4 сохранен в базу данных
+2022-06-13 19:14:58.367 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISa2KnRl-9YfC9edtFemYMrst6Rw-CAAJhGwACbXM4Sfh7m7-XMpDXJAQ название видео:AT_7_38.mp4
+2022-06-13 19:14:58.367 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISa2KnRl-9YfC9edtFemYMrst6Rw-CAAJhGwACbXM4Sfh7m7-XMpDXJAQ название видео:AT_7_38.mp4
+2022-06-13 19:14:58.540 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_38.mp4 сохранен в базу данных
+2022-06-13 19:14:58.540 | SUCCESS  | bot.bot:video_file_id:165 - AT_7_38.mp4 сохранен в базу данных
+2022-06-13 19:16:12.071 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISbGKnRqkikdFTkdQL12CxmjNVtu-RAAJiGwACbXM4SaU0Z8YLhL5uJAQ название видео:AT_8_1.mp4
+2022-06-13 19:16:12.071 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISbGKnRqkikdFTkdQL12CxmjNVtu-RAAJiGwACbXM4SaU0Z8YLhL5uJAQ название видео:AT_8_1.mp4
+2022-06-13 19:16:12.357 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_1.mp4 сохранен в базу данных
+2022-06-13 19:16:12.357 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_1.mp4 сохранен в базу данных
+2022-06-13 19:17:35.555 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISbWKnRv0GE-JSt6jSDL82_l4ZSU3WAAJjGwACbXM4SXKP6LYnGjLlJAQ название видео:AT_8_2.mp4
+2022-06-13 19:17:35.555 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISbWKnRv0GE-JSt6jSDL82_l4ZSU3WAAJjGwACbXM4SXKP6LYnGjLlJAQ название видео:AT_8_2.mp4
+2022-06-13 19:17:35.770 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_2.mp4 сохранен в базу данных
+2022-06-13 19:17:35.770 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_2.mp4 сохранен в базу данных
+2022-06-13 19:18:58.782 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISbmKnR1BbU5g85VbNhDO2b4Q3TaIBAAJkGwACbXM4SbAHpXSrRHzTJAQ название видео:AT_8_3.mp4
+2022-06-13 19:18:58.782 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISbmKnR1BbU5g85VbNhDO2b4Q3TaIBAAJkGwACbXM4SbAHpXSrRHzTJAQ название видео:AT_8_3.mp4
+2022-06-13 19:18:59.012 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_3.mp4 сохранен в базу данных
+2022-06-13 19:18:59.012 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_3.mp4 сохранен в базу данных
+2022-06-13 19:20:12.026 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISb2KnR5kKQbtpWFuJ8zAqH9ZissEkAAJlGwACbXM4ScnGNiaK0-61JAQ название видео:AT_8_4.mp4
+2022-06-13 19:20:12.026 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISb2KnR5kKQbtpWFuJ8zAqH9ZissEkAAJlGwACbXM4ScnGNiaK0-61JAQ название видео:AT_8_4.mp4
+2022-06-13 19:20:12.311 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_4.mp4 сохранен в базу данных
+2022-06-13 19:20:12.311 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_4.mp4 сохранен в базу данных
+2022-06-13 19:21:26.690 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIScGKnR-Q0-iy524tCMvWiyVcqalkyAAJmGwACbXM4SUHhpJAKSnRUJAQ название видео:AT_8_5.mp4
+2022-06-13 19:21:26.690 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIScGKnR-Q0-iy524tCMvWiyVcqalkyAAJmGwACbXM4SUHhpJAKSnRUJAQ название видео:AT_8_5.mp4
+2022-06-13 19:21:26.820 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_5.mp4 сохранен в базу данных
+2022-06-13 19:21:26.820 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_5.mp4 сохранен в базу данных
+2022-06-13 19:22:50.602 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIScWKnSDgmQ-8EtY8FxYe0G8P-ieXSAAJnGwACbXM4ScePGdDLrskYJAQ название видео:AT_8_6.mp4
+2022-06-13 19:22:50.602 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIScWKnSDgmQ-8EtY8FxYe0G8P-ieXSAAJnGwACbXM4ScePGdDLrskYJAQ название видео:AT_8_6.mp4
+2022-06-13 19:22:50.746 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_6.mp4 сохранен в базу данных
+2022-06-13 19:22:50.746 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_6.mp4 сохранен в базу данных
+2022-06-13 19:24:17.894 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIScmKnSI9XWSWuppvCiFoeOfKYwWRKAAJoGwACbXM4SYlGhft-ih6yJAQ название видео:AT_8_7.mp4
+2022-06-13 19:24:17.894 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIScmKnSI9XWSWuppvCiFoeOfKYwWRKAAJoGwACbXM4SYlGhft-ih6yJAQ название видео:AT_8_7.mp4
+2022-06-13 19:24:18.132 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_7.mp4 сохранен в базу данных
+2022-06-13 19:24:18.132 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_7.mp4 сохранен в базу данных
+2022-06-13 19:25:42.614 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISc2KnSOTVAyVv0UM1rB7q85tasJkpAAJpGwACbXM4SbdeO5gMNfUNJAQ название видео:AT_8_8.mp4
+2022-06-13 19:25:42.614 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISc2KnSOTVAyVv0UM1rB7q85tasJkpAAJpGwACbXM4SbdeO5gMNfUNJAQ название видео:AT_8_8.mp4
+2022-06-13 19:25:42.900 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_8.mp4 сохранен в базу данных
+2022-06-13 19:25:42.900 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_8.mp4 сохранен в базу данных
+2022-06-13 19:27:20.327 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISdGKnSUXPLGZ0h_lG0DetqpqYntQeAAJsGwACbXM4SQk8AAFNMpj78yQE название видео:AT_8_9.mp4
+2022-06-13 19:27:20.327 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISdGKnSUXPLGZ0h_lG0DetqpqYntQeAAJsGwACbXM4SQk8AAFNMpj78yQE название видео:AT_8_9.mp4
+2022-06-13 19:27:20.543 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_9.mp4 сохранен в базу данных
+2022-06-13 19:27:20.543 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_9.mp4 сохранен в базу данных
+2022-06-13 19:28:45.934 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISdWKnSZvehJj7eLj1Ji_HvAi2CCf-AAJtGwACbXM4SUMht_reL_mYJAQ название видео:AT_8_10.mp4
+2022-06-13 19:28:45.934 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISdWKnSZvehJj7eLj1Ji_HvAi2CCf-AAJtGwACbXM4SUMht_reL_mYJAQ название видео:AT_8_10.mp4
+2022-06-13 19:28:46.108 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_10.mp4 сохранен в базу данных
+2022-06-13 19:28:46.108 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_10.mp4 сохранен в базу данных
+2022-06-13 19:30:10.500 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISdmKnSe_gxq6vQOaTEnx1s06qpVi3AAJuGwACbXM4SWKBE4zFli5ZJAQ название видео:AT_8_11.mp4
+2022-06-13 19:30:10.500 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISdmKnSe_gxq6vQOaTEnx1s06qpVi3AAJuGwACbXM4SWKBE4zFli5ZJAQ название видео:AT_8_11.mp4
+2022-06-13 19:30:10.679 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_11.mp4 сохранен в базу данных
+2022-06-13 19:30:10.679 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_11.mp4 сохранен в базу данных
+2022-06-13 19:31:38.914 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISd2KnSkh8gKh7PoXzXbt-FWAWN4X_AAJwGwACbXM4SWfbFnd7luzHJAQ название видео:AT_8_12.mp4
+2022-06-13 19:31:38.914 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISd2KnSkh8gKh7PoXzXbt-FWAWN4X_AAJwGwACbXM4SWfbFnd7luzHJAQ название видео:AT_8_12.mp4
+2022-06-13 19:31:39.096 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_12.mp4 сохранен в базу данных
+2022-06-13 19:31:39.096 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_12.mp4 сохранен в базу данных
+2022-06-13 19:33:04.811 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISeGKnSp5XAAHAIuxUu7op077LyLVGMgACcRsAAm1zOEnLwa-AwPwS5yQE название видео:AT_8_13.mp4
+2022-06-13 19:33:04.811 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISeGKnSp5XAAHAIuxUu7op077LyLVGMgACcRsAAm1zOEnLwa-AwPwS5yQE название видео:AT_8_13.mp4
+2022-06-13 19:33:05.029 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_13.mp4 сохранен в базу данных
+2022-06-13 19:33:05.029 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_13.mp4 сохранен в базу данных
+2022-06-13 19:34:25.886 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISeWKnSu-FqqxiOwUbQHi80re-wkDTAAJyGwACbXM4SWYC9xpv82kGJAQ название видео:AT_8_14.mp4
+2022-06-13 19:34:25.886 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISeWKnSu-FqqxiOwUbQHi80re-wkDTAAJyGwACbXM4SWYC9xpv82kGJAQ название видео:AT_8_14.mp4
+2022-06-13 19:34:26.102 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_14.mp4 сохранен в базу данных
+2022-06-13 19:34:26.102 | SUCCESS  | bot.bot:video_file_id:165 - AT_8_14.mp4 сохранен в базу данных
+2022-06-13 19:36:06.250 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISemKnS1MlaG_jVG6LVx8iSsGl92CVAAJzGwACbXM4Sak83cJlN7T1JAQ название видео:AT_9_1.mp4
+2022-06-13 19:36:06.250 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISemKnS1MlaG_jVG6LVx8iSsGl92CVAAJzGwACbXM4Sak83cJlN7T1JAQ название видео:AT_9_1.mp4
+2022-06-13 19:36:06.496 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_1.mp4 сохранен в базу данных
+2022-06-13 19:36:06.496 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_1.mp4 сохранен в базу данных
+2022-06-13 19:37:30.879 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISe2KnS6gYIf6FQFwsFeSQiDoSO1D1AAJ1GwACbXM4SWMWC6mJybcAASQE название видео:AT_9_2.mp4
+2022-06-13 19:37:30.879 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISe2KnS6gYIf6FQFwsFeSQiDoSO1D1AAJ1GwACbXM4SWMWC6mJybcAASQE название видео:AT_9_2.mp4
+2022-06-13 19:37:30.996 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_2.mp4 сохранен в базу данных
+2022-06-13 19:37:30.996 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_2.mp4 сохранен в базу данных
+2022-06-13 19:38:40.535 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISfGKnS-1Hs93k2oTC5Y22288AAfCEywACdhsAAm1zOElBVTpoC7WC8CQE название видео:AT_9_3.mp4
+2022-06-13 19:38:40.535 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISfGKnS-1Hs93k2oTC5Y22288AAfCEywACdhsAAm1zOElBVTpoC7WC8CQE название видео:AT_9_3.mp4
+2022-06-13 19:38:40.717 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_3.mp4 сохранен в базу данных
+2022-06-13 19:38:40.717 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_3.mp4 сохранен в базу данных
+2022-06-13 19:39:52.828 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISfWKnTDaYiC30feykguQQtREJ-WG2AAJ3GwACbXM4SZf-1pgYUW6xJAQ название видео:AT_9_4.mp4
+2022-06-13 19:39:52.828 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISfWKnTDaYiC30feykguQQtREJ-WG2AAJ3GwACbXM4SZf-1pgYUW6xJAQ название видео:AT_9_4.mp4
+2022-06-13 19:39:52.986 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_4.mp4 сохранен в базу данных
+2022-06-13 19:39:52.986 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_4.mp4 сохранен в базу данных
+2022-06-13 19:41:05.101 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISfmKnTH6qiLFuwClSVzsERv5NjtgAA3gbAAJtczhJ6NINMwABfHMxJAQ название видео:AT_9_5.mp4
+2022-06-13 19:41:05.101 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISfmKnTH6qiLFuwClSVzsERv5NjtgAA3gbAAJtczhJ6NINMwABfHMxJAQ название видео:AT_9_5.mp4
+2022-06-13 19:41:05.312 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_5.mp4 сохранен в базу данных
+2022-06-13 19:41:05.312 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_5.mp4 сохранен в базу данных
+2022-06-13 19:42:37.713 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISf2KnTNt3TBQSDktvT77XHosTOHiCAAJ5GwACbXM4SX1C2tmlO4GNJAQ название видео:AT_9_6.mp4
+2022-06-13 19:42:37.713 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISf2KnTNt3TBQSDktvT77XHosTOHiCAAJ5GwACbXM4SX1C2tmlO4GNJAQ название видео:AT_9_6.mp4
+2022-06-13 19:42:37.912 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_6.mp4 сохранен в базу данных
+2022-06-13 19:42:37.912 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_6.mp4 сохранен в базу данных
+2022-06-13 19:44:10.514 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISgGKnTTeuCl7synakRyNJfFHFECOaAAJ6GwACbXM4SRvmEb3L6zrMJAQ название видео:AT_9_7.mp4
+2022-06-13 19:44:10.514 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISgGKnTTeuCl7synakRyNJfFHFECOaAAJ6GwACbXM4SRvmEb3L6zrMJAQ название видео:AT_9_7.mp4
+2022-06-13 19:44:10.699 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_7.mp4 сохранен в базу данных
+2022-06-13 19:44:10.699 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_7.mp4 сохранен в базу данных
+2022-06-13 19:45:41.492 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISgWKnTZISQzzFGgJJ6whXYJShiaw_AAJ8GwACbXM4SfqJTaexVQz4JAQ название видео:AT_9_8.mp4
+2022-06-13 19:45:41.492 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISgWKnTZISQzzFGgJJ6whXYJShiaw_AAJ8GwACbXM4SfqJTaexVQz4JAQ название видео:AT_9_8.mp4
+2022-06-13 19:45:41.700 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_8.mp4 сохранен в базу данных
+2022-06-13 19:45:41.700 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_8.mp4 сохранен в базу данных
+2022-06-13 19:47:04.056 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISgmKnTeWLs-6qFXmlvRKAyOUK00pnAAJ9GwACbXM4SXtsPt19Rn57JAQ название видео:AT_9_9.mp4
+2022-06-13 19:47:04.056 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISgmKnTeWLs-6qFXmlvRKAyOUK00pnAAJ9GwACbXM4SXtsPt19Rn57JAQ название видео:AT_9_9.mp4
+2022-06-13 19:47:04.264 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_9.mp4 сохранен в базу данных
+2022-06-13 19:47:04.264 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_9.mp4 сохранен в базу данных
+2022-06-13 19:48:19.918 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISg2KnTjFA0idSPEECeuwZ9xg5zgbYAAJ-GwACbXM4Set5a3wB7DD3JAQ название видео:AT_9_10.mp4
+2022-06-13 19:48:19.918 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISg2KnTjFA0idSPEECeuwZ9xg5zgbYAAJ-GwACbXM4Set5a3wB7DD3JAQ название видео:AT_9_10.mp4
+2022-06-13 19:48:20.106 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_10.mp4 сохранен в базу данных
+2022-06-13 19:48:20.106 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_10.mp4 сохранен в базу данных
+2022-06-13 19:49:35.958 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIShGKnTn0DlT1xEjooPV1SmytR6u_YAAJ_GwACbXM4SfKwpw-bgH89JAQ название видео:AT_9_11.mp4
+2022-06-13 19:49:35.958 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIShGKnTn0DlT1xEjooPV1SmytR6u_YAAJ_GwACbXM4SfKwpw-bgH89JAQ название видео:AT_9_11.mp4
+2022-06-13 19:49:36.187 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_11.mp4 сохранен в базу данных
+2022-06-13 19:49:36.187 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_11.mp4 сохранен в базу данных
+2022-06-13 19:51:16.018 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIShWKnTuEcTdp7wSAVzJygmLM4NjBnAAKAGwACbXM4Sa79v8MmI_H1JAQ название видео:AT_9_12.mp4
+2022-06-13 19:51:16.018 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIShWKnTuEcTdp7wSAVzJygmLM4NjBnAAKAGwACbXM4Sa79v8MmI_H1JAQ название видео:AT_9_12.mp4
+2022-06-13 19:51:16.294 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_12.mp4 сохранен в базу данных
+2022-06-13 19:51:16.294 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_12.mp4 сохранен в базу данных
+2022-06-13 19:52:27.411 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIShmKnTyjTKRqSnC3WQv0if0Pso_klAAKBGwACbXM4Sc2RMiKZfCq4JAQ название видео:AT_9_13.mp4
+2022-06-13 19:52:27.411 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAIShmKnTyjTKRqSnC3WQv0if0Pso_klAAKBGwACbXM4Sc2RMiKZfCq4JAQ название видео:AT_9_13.mp4
+2022-06-13 19:52:27.561 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_13.mp4 сохранен в базу данных
+2022-06-13 19:52:27.561 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_13.mp4 сохранен в базу данных
+2022-06-13 19:53:43.265 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISh2KnT3RjW2xGTcmxQkh84CcT_KGuAAKDGwACbXM4STqGhY6X3QUdJAQ название видео:AT_9_14.mp4
+2022-06-13 19:53:43.265 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISh2KnT3RjW2xGTcmxQkh84CcT_KGuAAKDGwACbXM4STqGhY6X3QUdJAQ название видео:AT_9_14.mp4
+2022-06-13 19:53:43.468 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_14.mp4 сохранен в базу данных
+2022-06-13 19:53:43.468 | SUCCESS  | bot.bot:video_file_id:165 - AT_9_14.mp4 сохранен в базу данных
+2022-06-13 19:55:04.548 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISiGKnT8Va_klLO4wvrZ9a18F9V9LXAAKGGwACbXM4STpOf9mJeTa_JAQ название видео:AT_10_1.mp4
+2022-06-13 19:55:04.548 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISiGKnT8Va_klLO4wvrZ9a18F9V9LXAAKGGwACbXM4STpOf9mJeTa_JAQ название видео:AT_10_1.mp4
+2022-06-13 19:55:04.699 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_1.mp4 сохранен в базу данных
+2022-06-13 19:55:04.699 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_1.mp4 сохранен в базу данных
+2022-06-13 19:56:15.321 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISiWKnUAz2VYQ-KqNfP7XrmD6l9CO8AAKIGwACbXM4SVCF_PNaAAHmoyQE название видео:AT_10_2.mp4
+2022-06-13 19:56:15.321 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISiWKnUAz2VYQ-KqNfP7XrmD6l9CO8AAKIGwACbXM4SVCF_PNaAAHmoyQE название видео:AT_10_2.mp4
+2022-06-13 19:56:15.515 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_2.mp4 сохранен в базу данных
+2022-06-13 19:56:15.515 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_2.mp4 сохранен в базу данных
+2022-06-13 19:57:44.019 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISimKnUGXfdCfgECGPa4h9Rx40EWyRAAKKGwACbXM4SWKfBONYq56iJAQ название видео:AT_10_3.mp4
+2022-06-13 19:57:44.019 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISimKnUGXfdCfgECGPa4h9Rx40EWyRAAKKGwACbXM4SWKfBONYq56iJAQ название видео:AT_10_3.mp4
+2022-06-13 19:57:44.204 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_3.mp4 сохранен в базу данных
+2022-06-13 19:57:44.204 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_3.mp4 сохранен в базу данных
+2022-06-13 19:58:55.504 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISi2KnUKz29nUOv1QMEWiyIaIw60JhAAKLGwACbXM4SZtHJ76vRhBgJAQ название видео:AT_10_4.mp4
+2022-06-13 19:58:55.504 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISi2KnUKz29nUOv1QMEWiyIaIw60JhAAKLGwACbXM4SZtHJ76vRhBgJAQ название видео:AT_10_4.mp4
+2022-06-13 19:58:55.736 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_4.mp4 сохранен в базу данных
+2022-06-13 19:58:55.736 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_4.mp4 сохранен в базу данных
+2022-06-13 20:00:25.786 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISjGKnUQcAAb1mAAGyJ-Mq_HBOtL0ZgxIAAo0bAAJtczhJiGLme1_iOzAkBA название видео:AT_10_5.mp4
+2022-06-13 20:00:25.786 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISjGKnUQcAAb1mAAGyJ-Mq_HBOtL0ZgxIAAo0bAAJtczhJiGLme1_iOzAkBA название видео:AT_10_5.mp4
+2022-06-13 20:00:25.930 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_5.mp4 сохранен в базу данных
+2022-06-13 20:00:25.930 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_5.mp4 сохранен в базу данных
+2022-06-13 20:01:44.210 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISjWKnUVWkH9tq96_evnDKlKrKU22oAAKOGwACbXM4SSCqQJaKJ_m2JAQ название видео:AT_10_6.mp4
+2022-06-13 20:01:44.210 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISjWKnUVWkH9tq96_evnDKlKrKU22oAAKOGwACbXM4SSCqQJaKJ_m2JAQ название видео:AT_10_6.mp4
+2022-06-13 20:01:44.389 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_6.mp4 сохранен в базу данных
+2022-06-13 20:01:44.389 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_6.mp4 сохранен в базу данных
+2022-06-13 20:03:02.223 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISjmKnUaNNoDrO7l61PZ15E_dpCcPoAAKPGwACbXM4SVSTgYzQBq00JAQ название видео:AT_10_7.mp4
+2022-06-13 20:03:02.223 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISjmKnUaNNoDrO7l61PZ15E_dpCcPoAAKPGwACbXM4SVSTgYzQBq00JAQ название видео:AT_10_7.mp4
+2022-06-13 20:03:02.404 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_7.mp4 сохранен в базу данных
+2022-06-13 20:03:02.404 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_7.mp4 сохранен в базу данных
+2022-06-13 20:04:19.361 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISj2KnUfADPaohxQ9KCyQUeYJgtoa3AAKQGwACbXM4ST71MTs0ge95JAQ название видео:AT_10_8.mp4
+2022-06-13 20:04:19.361 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISj2KnUfADPaohxQ9KCyQUeYJgtoa3AAKQGwACbXM4ST71MTs0ge95JAQ название видео:AT_10_8.mp4
+2022-06-13 20:04:19.586 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_8.mp4 сохранен в базу данных
+2022-06-13 20:04:19.586 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_8.mp4 сохранен в базу данных
+2022-06-13 20:05:44.043 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISkGKnUkWis-FS1toaYUYunIZy2Y0MAAKSGwACbXM4SURgB0vFYme-JAQ название видео:AT_10_9.mp4
+2022-06-13 20:05:44.043 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISkGKnUkWis-FS1toaYUYunIZy2Y0MAAKSGwACbXM4SURgB0vFYme-JAQ название видео:AT_10_9.mp4
+2022-06-13 20:05:44.311 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_9.mp4 сохранен в базу данных
+2022-06-13 20:05:44.311 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_9.mp4 сохранен в базу данных
+2022-06-13 20:07:14.127 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISkWKnUp8HFWImwleQ7NMeiPplvfR7AAKWGwACbXM4SUcJfdd_NDPFJAQ название видео:AT_10_10.mp4
+2022-06-13 20:07:14.127 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISkWKnUp8HFWImwleQ7NMeiPplvfR7AAKWGwACbXM4SUcJfdd_NDPFJAQ название видео:AT_10_10.mp4
+2022-06-13 20:07:14.410 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_10.mp4 сохранен в базу данных
+2022-06-13 20:07:14.410 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_10.mp4 сохранен в базу данных
+2022-06-13 20:08:36.109 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISkmKnUvFa5rJ8xMauY-u_p420pbYtAAKfGwACbXM4SchBNO1J1m24JAQ название видео:AT_10_11.mp4
+2022-06-13 20:08:36.109 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISkmKnUvFa5rJ8xMauY-u_p420pbYtAAKfGwACbXM4SchBNO1J1m24JAQ название видео:AT_10_11.mp4
+2022-06-13 20:08:36.255 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_11.mp4 сохранен в базу данных
+2022-06-13 20:08:36.255 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_11.mp4 сохранен в базу данных
+2022-06-13 20:09:37.989 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISk2KnUy_HLsO49bhzXj0ikb3pcrn5AAKhGwACbXM4SYtCk-Qz1Ao4JAQ название видео:AT_10_12.mp4
+2022-06-13 20:09:37.989 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISk2KnUy_HLsO49bhzXj0ikb3pcrn5AAKhGwACbXM4SYtCk-Qz1Ao4JAQ название видео:AT_10_12.mp4
+2022-06-13 20:09:38.191 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_12.mp4 сохранен в базу данных
+2022-06-13 20:09:38.191 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_12.mp4 сохранен в базу данных
+2022-06-13 20:14:21.107 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISlGKnVEpxMIUUBE8Go-_yURBKWBXPAAKlGwACbXM4ScIF02-ZRFrKJAQ название видео:AT_10_13.mp4
+2022-06-13 20:14:21.107 | DEBUG    | bot.bot:video_file_id:147 - id видео:BAACAgIAAxkBAAISlGKnVEpxMIUUBE8Go-_yURBKWBXPAAKlGwACbXM4ScIF02-ZRFrKJAQ название видео:AT_10_13.mp4
+2022-06-13 20:14:21.321 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_13.mp4 сохранен в базу данных
+2022-06-13 20:14:21.321 | SUCCESS  | bot.bot:video_file_id:165 - AT_10_13.mp4 сохранен в базу данных
