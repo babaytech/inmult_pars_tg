@@ -35,13 +35,13 @@
 Потребуется установленный python3 и pip<br>
 В консоли вводим
 ```no-highlight
-pip install wget
-pip install aiogram
-pip install colorama
-pip install BeautifulSoup4
-pip install requests
-pip install loguru
-pip install lxml
+pip3 install wget
+pip3 install aiogram
+pip3 install colorama
+pip3 install BeautifulSoup4
+pip3 install requests
+pip3 install loguru
+pip3 install lxml
 ```
 Позже будет единый файл со всеми нужными пакетами для установки.<br>
 После установки всех пакетов открывает config.ini<br>
