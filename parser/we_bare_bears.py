@@ -1,5 +1,5 @@
 ###################################################
-from loguru import logger 
+from loguru import logger
 import sqlite3
 import json
 import colorama
@@ -15,7 +15,7 @@ def progress_bar(progress, total, color=colorama.Fore.LIGHTYELLOW_EX):
             print(colorama.Fore.GREEN + f"\rПарсинг Южного Парка завершён | {percent:.2f}%",end="")
 
 def main_mult():
-    logger.info("Парсинг Время Приключений")
+    logger.info("Парсинг Мы Обычные Медведи")
 
     # иницилизация хендлера и прокси
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
@@ -24,10 +24,10 @@ def main_mult():
     sezon = 0
     database_list = []
     # цикл для смены страницы
-    for i in range(10):
+    for i in range(4):
         seriya = 1
         sezon += 1
-        url = f'https://adventuretime.cn-fan.tv/season.php?id={sezon}'
+        url = f'https://webarebears.cn-fan.tv/season.php?id={sezon}'
         request = requests.get(url, headers=headers, proxies=proxies)
         root = BeautifulSoup(request.text, 'lxml')
         div = root.find('div', id='descrSeason')
@@ -39,7 +39,7 @@ def main_mult():
             for card_seriya in cards_seriya:
                 database_list_time = []
                 a_link = card_seriya.get('href')
-                clear_url = f'https://adventuretime.cn-fan.tv/{a_link}'
+                clear_url = f'https://webarebears.cn-fan.tv/{a_link}'
                 res = requests.get(clear_url, headers=headers, proxies=proxies)
                 soup_seriya = BeautifulSoup(res.text, 'lxml')
                 title_seriya = soup_seriya.find('h1').text.strip()
@@ -54,11 +54,11 @@ def main_mult():
                 seriya += 1
 
     # Запись в базу данных
-    logger.info("Время Приключений записано в базу данных !!!")
+    logger.info("Мы Обычные Медведи записано в базу данных !!!")
     conn = sqlite3.connect('serial.sqlite3')
     cursor = conn.cursor()
-    cursor.execute("DELETE FROM adventure_time")
-    cursor.executemany("INSERT INTO adventure_time VALUES(?, ?, ?, ?);", database_list)
+    cursor.execute("DELETE FROM we_bare_bears")
+    cursor.executemany("INSERT INTO we_bare_bears VALUES(?, ?, ?, ?);", database_list)
     conn.commit()
     conn.close()
     del database_list

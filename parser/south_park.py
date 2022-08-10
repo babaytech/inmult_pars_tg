@@ -1,4 +1,5 @@
 ###################################################
+from loguru import logger
 import sqlite3
 import colorama
 from loguru import logger
@@ -17,7 +18,7 @@ def progress_bar(progress, total, color=colorama.Fore.LIGHTYELLOW_EX):
 
 @logger.catch
 def main_mult():
-    print(colorama.Fore.RED + "====================\nЮжный Парк начало парсинга\n====================")
+    logger.info("Парсинг Южный Парк")
 
     # иницилизация хендлера и прокси
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
@@ -56,13 +57,14 @@ def main_mult():
                 seriya += 1
 
     # Запись в базу данных
-    print(colorama.Fore.GREEN + "====================\nЮжный Парк записан в базу данных\n====================")
+    logger.info("Южный Парк записано в базу данных !!!")
     conn = sqlite3.connect('serial.sqlite3')
     cursor = conn.cursor()
     cursor.execute("DELETE FROM south_park")
     cursor.executemany("INSERT INTO south_park VALUES(?, ?, ?, ?);", database_list)
     conn.commit()
     conn.close()
+    del database_list
     print(colorama.Fore.RESET)
 
 

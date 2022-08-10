@@ -1,4 +1,5 @@
 ###################################################
+from loguru import logger 
 import sqlite3
 import json
 import colorama
@@ -14,7 +15,7 @@ def progress_bar(progress, total, color=colorama.Fore.LIGHTYELLOW_EX):
             print(colorama.Fore.GREEN + f"\rПарсинг Южного Парка завершён | {percent:.2f}%",end="")
 
 def main_mult():
-    print(colorama.Fore.RED + "====================\nЛюбовь, Смерть и Роботы запуск парсинга\n====================")
+    logger.info("Парсинг Любовь Смерть и Роботы")
 
     # иницилизация хендлера и прокси
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
@@ -53,11 +54,12 @@ def main_mult():
                 seriya += 1
 
     # Запись в базу данных
-    print(colorama.Fore.GREEN + "====================\nЛюбовь Смерть и Роботы записан в базу данных\n====================")
+    logger.info("Любовь Смерть и Роботы записано в базу данных !!!")
     conn = sqlite3.connect('serial.sqlite3')
     cursor = conn.cursor()
     cursor.execute("DELETE FROM love_death_and_robots")
     cursor.executemany("INSERT INTO love_death_and_robots VALUES(?, ?, ?, ?);", database_list)
     conn.commit()
     conn.close()
+    del database_list
     print(colorama.Fore.RESET)

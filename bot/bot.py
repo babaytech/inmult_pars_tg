@@ -1,8 +1,9 @@
 #####################################################################
 import configparser
+import requests
 from loguru import logger
 import sqlite3
-import parser.south_park, parser.rick_and_morty, parser.adventury_time, parser.love_death_and_robots
+import parser.south_park, parser.rick_and_morty, parser.adventury_time, parser.love_death_and_robots, parser.we_bare_bears
 import wget
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
@@ -51,7 +52,8 @@ async def with_puree(message: types.Message):
     await message.reply("Время Приключений - /adventure_time\n"
                         "Южный Парк - /south_park\n"
                         "Любовь Смерть и Роботы - /love_death_and_robots\n"
-                        "Рик и Морти - /rick_and_morty\n")
+                        "Рик и Морти - /rick_and_morty\n"
+                        "Мы Обычные Медведи - /we_bare_bears\n")
 
 """Парсинг ссылок для мультфильмов"""
 @dp.message_handler(commands="update_db")
@@ -70,6 +72,8 @@ async def parse_mult_db(message):
         await message.answer("Рик и Морти записан в базу данных")
         parser.south_park.main_mult()
         await message.answer("Южный Парк записан в базу данных")
+        parser.we_bare_bears.main_mult()
+        await message.answer("Мы Обычные Медведи записан в базу данных")
     elif admin[1] == 0:
         logger.warning(f"{username} попытался обновить базу данных")
         await message.answer("куда лезешь заюш ?")
@@ -81,11 +85,12 @@ async def download_video(message : types.Message):
     username = message.from_user.username if message.from_user.username else None
     cursor_tg.execute(f"SELECT * FROM users WHERE username = '{username}';")
     admin = cursor_tg.fetchone()
-    if admin == 1:
-        logger.info(f"{username} нажал кнопку Скачивание файлов")
+    lvl_admin = admin[1]
+    if lvl_admin == 1:
+        logger.info(f"{username} нажал кнопку Скачивание файлов admin = {lvl_admin}")
+        
         db = "SELECT * FROM south_park"
         await message.answer("Ожидайте Отправки Видео")
-
         logger.debug("Запуск Скачивания Серий Южного Парка")
         cursor_mult.execute(db)
         url_db = cursor_mult.fetchall()
@@ -117,7 +122,10 @@ async def download_video(message : types.Message):
             seriya = row[1]
             sezon = row[2]
             download_urls = row[3]
-            wget.download(download_urls, f"mults/love_death_and_robots/LDR_{sezon}_{seriya}.mp4")
+            r = requests.get(download_urls)
+            with open(f'mults/love_death_and_robots/WBB_{sezon}_{seriya}.mp4', 'wb') as f:
+                f.write(r.content)
+
             await message.answer(f"Любовь, Смерть и Роботы сезон:{sezon} серия:{seriya} Загружен")
             logger.success(f"Любовь, Смерть и Роботы сезон:{sezon} серия:{seriya} Загружен")
 
@@ -129,9 +137,27 @@ async def download_video(message : types.Message):
             seriya = row[1]
             sezon = row[2]
             download_urls = row[3]
-            wget.download(download_urls, f"mults/adventure_time/AT_{sezon}_{seriya}.mp4")
+            r = requests.get(download_urls)
+            with open(f'mults/adventure_time/_{sezon}_{seriya}.mp4', 'wb') as f:
+                f.write(r.content)
+
             await message.answer(f"Время приключений сезон:{sezon} серия:{seriya} Загружен на сервер!")
             logger.success(f"Время приключений сезон:{sezon} серия:{seriya} Загружен!")
+
+        db = "SELECT * FROM we_bare_bears"
+        logger.debug("Запуск Скачивания Серий Мы Обычные Медведи")
+        cursor_mult.execute(db)
+        url_db = cursor_mult.fetchall()
+        for row in url_db:
+            seriya = row[1]
+            sezon = row[2]
+            download_urls = row[3]
+            r = requests.get(download_urls)
+            with open(f'mults/we_bare_bears/WBB_{sezon}_{seriya}.mp4', 'wb') as f:
+                f.write(r.content)
+
+            await message.answer(f"Мы Обычные Медведи сезон:{sezon} серия:{seriya} Загружен на сервер!")
+            logger.success(f"Мы Обычные Медведи сезон:{sezon} серия:{seriya} Загружен!")
 
     elif admin == 0:
         logger.warning(f"{username} попытался скачать мультфильмы")
@@ -145,6 +171,7 @@ async def video_file_id(message: types.Message):
         video_id = message.video.file_id
         video_name = message.video.file_name
         logger.debug(f"id видео:{video_id} название видео:{video_name}")
+        wbb_name = video_name.find("WBB")
         rm_name = video_name.find("RM")
         sp_name = video_name.find("SP")
         at_name = video_name.find("AT")
@@ -166,6 +193,11 @@ async def video_file_id(message: types.Message):
 
         if (ldr_name >= 0):
             cursor_tg.execute("INSERT INTO love_death_and_robots VALUES(?, ?)", (video_name, video_id))
+            conn_tg.commit()
+            logger.success(f"{video_name} сохранен в базу данных")
+
+        if (wbb_name >= 0):
+            cursor_tg.execute("INSERT INTO we_bare_bears VALUES(?, ?)", (video_name, video_id))
             conn_tg.commit()
             logger.success(f"{video_name} сохранен в базу данных")
 
@@ -229,7 +261,7 @@ async def get_seriya_rick(message: types.Message, state: FSMContext):
     await state.update_data(seriya=message.text)
     data = await state.get_data()
     try:
-        cursor_mult.execute(f"SELECT *FROM rick_and_morty WHERE seriya = {data['seriya']} AND sezon = {data['sezon']};")
+        cursor_mult.execute(f"SELECT * FROM rick_and_morty WHERE seriya = {data['seriya']} AND sezon = {data['sezon']};")
         cursor_tg.execute(f"SELECT * FROM rick_and_morty WHERE name_file = 'RM_{data['sezon']}_{data['seriya']}.mp4';")
         video_id_list = cursor_tg.fetchone()
         video_info_list = cursor_mult.fetchone()
@@ -565,6 +597,65 @@ async def get_seriya_rick(message: types.Message, state: FSMContext):
         logger.warning(f"{username} данных нет в базе!")
         await message.answer("такого номера нет в базе, введите другой номер!")
 
+
+class UserState_WBB(StatesGroup):
+    sezon = State()
+    seriya = State()
+"""Запрос на получение номера сезона"""
+@dp.message_handler(commands="we_bare_bears")
+async def write_db_video_wbb(message: types.Message):
+    username = message.from_user.username if message.from_user.username else None
+    logger.debug(f"{username} выбрал Мы Обычные Медведи")
+    await message.answer("Выберите номер сезона\n1-3 Сезон доступны\n/cancle - что бы выбрать другой мультфильм")
+    await UserState_WBB.sezon.set()
+"""Определение номера сезона и получение номера серии"""
+@dp.message_handler(state=UserState_WBB.sezon)
+async def get_sezon_wbb(message: types.Message, state: FSMContext):
+    await state.update_data(sezon=message.text)
+    username = message.from_user.username if message.from_user.username else None
+    data = await state.get_data()
+    sezon_number = data['sezon']
+
+    if sezon_number == "1":
+        logger.debug(f"{username} ввёл номер сезона {sezon_number}")
+        await message.answer("Выберите серию 1-26")
+        await UserState_WBB.next()
+
+    elif sezon_number == "2":
+        logger.debug(f"{username} ввёл номер сезона {sezon_number}")
+        await message.answer("Выберите серию 1-25")
+        await UserState_WBB.next()
+
+    elif sezon_number == "3":
+        logger.debug(f"{username} ввёл номер сезона {sezon_number}")
+        await message.answer("Выберите серию 1-44")
+        await UserState_Wbb.next()
+
+    elif sezon_number == "/cancle":
+        await state.finish()
+
+    else:
+        logger.debug(f"{username} ввёл номер сезона {sezon_number}")
+        await message.answer("Такого сезона нет в базе!")
+"""Обработка данных и отправка плользователю мультфильма"""
+@dp.message_handler(state=UserState_WBB.seriya)
+async def get_seriya_wbb(message: types.Message, state: FSMContext):
+    username = message.from_user.username if message.from_user.username else None
+    await state.update_data(seriya=message.text)
+    data = await state.get_data()
+    try:
+        cursor_mult.execute(f"SELECT * FROM we_bare_bears WHERE seriya = {data['seriya']} AND sezon = {data['sezon']};")
+        cursor_tg.execute(f"SELECT * FROM we_bare_bears WHERE name_file = 'WBB_{data['sezon']}_{data['seriya']}.mp4';")
+        video_id_list = cursor_tg.fetchone()
+        video_info_list = cursor_mult.fetchone()
+
+        await message.answer(f"{video_info_list[0]}\nсезон:{video_info_list[2]} серия{video_info_list[1]}")
+        await bot.send_video(message.from_user.id, video=video_id_list[1])
+        logger.debug(f"{username} выбрал Сезон:{data['sezon']} Серию:{data['seriya']}")
+        await state.finish()
+    except:
+        logger.warning(f"{username} данных нет в базе!")
+        await message.answer("такого номера нет в базе, введите другой номер!")
 
 def start_bot():
     executor.start_polling(dp, skip_updates=True)
